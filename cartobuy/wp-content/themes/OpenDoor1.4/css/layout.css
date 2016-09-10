@@ -1,0 +1,90 @@
+/* #Media Queries
+================================================== */
+
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 959px) {}
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 959px) {
+		.container #slider {width: inherit !important ; margin-left: 0 !important;}	
+		#map, #streetview {width: 555px !important; height: 250px !important;}		
+		div#sliderimage {height: 360px !important;}
+		.wpcf7 textarea {width: 157px !important;}
+		.wpcf7 input[type=text] {width: 157px !important;}
+		.imagehover {display: none !important;}
+		#footer iframe {width: 180px !important;}
+	}
+
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {
+		.footer_widget {padding-left: 15px; padding-right: 15px;}
+		#map, #streetview {width: 300px !important; height: 170px !important;}
+
+		select.responsiveMenuSelect {position: relative !important; top: 3px !important;}
+		h2.bar {line-height: 32px !important;}
+		
+		div#sliderimage {height: 270px !important;} 
+		
+		.container #slider {width: inherit !important ; height: 150px !important;}
+		
+		.unoslider_right, .unoslider_left {bottom: 10px !important;}
+		#slider .btn {font-size: 12px !important; padding: 0 3px !important;}
+		#menubar {background: transparent !important;}
+		.html_content {top: 25px !important;}
+		.html_content .banner {display: none !important;}
+		.slidertext h2, .slidertext p.price {font-size: 12px !important; margin-bottom: 10px !important; line-height: 10px !important;}
+		.slidertext p.twofeatures {display: none !important;}
+		
+		.widget.qtranslate {right: 20px !important;}
+		
+		#leftsidebar {top: 0 !important;}
+		.bigheading {padding-top: 0 !important;}
+		h2#pricebig{float: left !important ;}
+		#logo2, p#headertext, #orderresults, .ex2, .ex5, .unoslider_indicator, #socialheader, #loancalculator, #leftsidebarwidgets {display: none !important;}
+		
+		
+		h3.compare {font-size: 11px !important;}
+		.btn-small {font-size: 11px !important;}
+		table#comparisontable td {min-width: 100px !important;}
+		
+		.outercontainer {padding-left: 0 !important; padding-right: 0 !important; margin-left: 0 !important;}
+		body {background: white none !important ;}
+		div.bigheading h2 {padding-left: 15px !important;}
+		.footerblock .inner, #belowfooter p {padding-left: 20px !important;}
+		.container {-moz-box-shadow: none !important; -webkit-box-shadow: none !important; o-box-shadow: none !important; box-shadow: none !important;}
+		div.vignette:after {box-shadow: none !important;}
+		#loginusername, #loginpassword, #rememberme, #login-panel h2 {padding-left: 20px !important;}	
+		.imagehover {display: none !important;}
+	}
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 480px) and (max-width: 767px) {
+		.bar {background: transparent !important;}
+		#related h3, #details h3 {background: #EBEBEB !important;}
+		
+		#map, #streetview {width: 415px !important; height: 200px !important;}
+		/* img.detailpagebigimage {height: 235px !important;} */
+		.image {width: 415px !important;}
+		.container #slider {width: inherit !important; height: 210px !important;}
+		div#sliderimage {height: 270px !important;} 
+		.wpcf7 textarea {width: 404px !important;}
+		.wpcf7 input[type=text] {width: 404px !important;}
+		div#sliderimage {height: 270px !important;} 
+		select.responsiveMenuSelect {position: relative !important; top: 3px !important;}
+		#slider .btn-large { font-size: 12px !important; padding: 5px 7px !important;}
+		.imagehover {display: none !important;}
+		.one-third img {margin-bottom: 10px !important;}
+		#footer iframe {width: 380px !important;}
+	}
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) {
+		.bar {background: transparent !important;  }
+		#related h3, #details h3 {background: #EBEBEB !important;}
+		div#sliderimage {height: 200px !important;} 
+		.detailpagethumbnails .thumb {margin-right: 13px !important;}
+		.container .outercontainer, #slider {margin-left: 0 !important;}
+		.imagehover {display: none !important;}
+		.one-third img {margin-bottom: 10px !important;}
+		#footer iframe {width: 265px !important;}
+	}

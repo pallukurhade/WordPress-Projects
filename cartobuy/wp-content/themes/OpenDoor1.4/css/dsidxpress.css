@@ -1,0 +1,23 @@
+.dsidx-search-widget th {background: transparent;}
+.dsidx-results .dsidx-paging-control, #dsidx .dsidx-sorting-control {text-align: left;}
+
+
+#dsidx-listings li hr {display: none;}
+#dsidx-listings .dsidx-primary-data {background: transparent;}
+#dsidx-listings .dsidx-price {margin-top: 5px;}
+#dsidx-listings .dsidx-primary-data, #dsidx-listings .dsidx-secondary-data {padding-left: 270px; width: 430px;}
+.dsidx-address {font-size: 22px; margin-bottom: 12px !important;}
+blockquote#dsidx-description { width: 100%; border: none;}
+#dsidx-tiny-photos, #dsidx-actions {display: none;}
+label#idx-search-invalid-msg {width: 180px;}
+#ishome .dsidx-standalone-disclaimer {display: none;}
+.dsidx-details #dsidx-media-td {vertical-align: top !important;}
+#dsidx-primary-data {margin-bottom: 10px !important; }
+
+.dsidx-search-widget .separator {display: none;}
+.dsidx-search-widget th {vertical-align: top;}
+.dsidx-widget.dsidx-search-widget .dsidx-search-button {width: auto; font-size: 20px !important;}
+.dsidx-search-widget .dsidx-search-button .submit {font-size: 16px !important;}
+.dsidx-primary-data .dsidx-price {font-size: 20px !important;}
+#dsidx-description-text {display: block; margin-top: 20px;}
+

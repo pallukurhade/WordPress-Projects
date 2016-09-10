@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<coupon_title><![CDATA[10% Off Amazon]]></coupon_title>
+		<coupon_description><![CDATA[<p>Great coupon from Amazon.com that gives 10% off any purchase. Can be used multiple times so make sure to take advantage of this deal often.</p><p>This is the default coupon created when Clipper is first installed. It is for demonstration purposes only and is not actually a 10% off Amazon.com coupon.</p>]]></coupon_description>
+		<coupon_excerpt><![CDATA[]]></coupon_excerpt>
+		<coupon_status><![CDATA[publish]]></coupon_status>
+		<author><![CDATA[1]]></author>
+		<date><![CDATA[30-05-2013 13:54]]></date>
+		<slug><![CDATA[10-off-amazon]]></slug>
+		<coupon_code><![CDATA[AMAZON10]]></coupon_code>
+		<expire_date><![CDATA[30-05-2015]]></expire_date>
+		<print_url><![CDATA[]]></print_url>
+		<id><![CDATA[5534f940d81c5f8e]]></id>
+		<coupon_aff_url><![CDATA[http://www.amazon.com/?tag=20-ebt]]></coupon_aff_url>
+		<coupon_category><![CDATA[Electronics]]></coupon_category>
+		<coupon_tag><![CDATA[Books,Electronics,Online Store]]></coupon_tag>
+		<coupon_type><![CDATA[Coupon Code]]></coupon_type>
+		<stores><![CDATA[Amazon.com]]></stores>
+		<store_desc><![CDATA[Amazon is the world's largest online retailer. The company also produces consumer electronics, and is a major provider of cloud computing services.]]></store_desc>
+		<store_url><![CDATA[http://www.amazon.com/]]></store_url>
+		<store_aff_url><![CDATA[http://www.amazon.com/?rstore=123]]></store_aff_url>
+	</node>
+	<node>
+		<coupon_title><![CDATA[20% Off Amazon]]></coupon_title>
+		<coupon_description><![CDATA[<p>Great coupon from Flipkart.com that gives 20% off any purchase. Can be used multiple times so make sure to take advantage of this deal often.</p><p>This is the default coupon created when Clipper is first installed. It is for demonstration purposes only and is not actually a 10% off Flipkart.com coupon.</p>]]></coupon_description>
+		<coupon_excerpt><![CDATA[]]></coupon_excerpt>
+		<coupon_status><![CDATA[publish]]></coupon_status>
+		<author><![CDATA[1]]></author>
+		<date><![CDATA[30-05-2013 13:54]]></date>
+		<slug><![CDATA[10-off-amazon]]></slug>
+		<coupon_code><![CDATA[AMAZON10]]></coupon_code>
+		<expire_date><![CDATA[30-05-2015]]></expire_date>
+		<print_url><![CDATA[]]></print_url>
+		<id><![CDATA[5534f940d81c5f8e]]></id>
+		<coupon_aff_url><![CDATA[http://www.amazon.com/?tag=20-ebt]]></coupon_aff_url>
+		<coupon_category><![CDATA[Electronics]]></coupon_category>
+		<coupon_tag><![CDATA[Books,Electronics,Online Store]]></coupon_tag>
+		<coupon_type><![CDATA[Coupon Code]]></coupon_type>
+		<stores><![CDATA[Amazon.com]]></stores>
+		<store_desc><![CDATA[Amazon is the world's largest online retailer. The company also produces consumer electronics, and is a major provider of cloud computing services.]]></store_desc>
+		<store_url><![CDATA[http://www.amazon.com/]]></store_url>
+		<store_aff_url><![CDATA[http://www.amazon.com/?rstore=123]]></store_aff_url>
+	</node>
+</data>

@@ -1,0 +1,8 @@
+<option value="">Any</option>
+<option>Cap D'ail</option>
+<option>Beausoleil</option>
+<option>Roquebrune Cap Martin</option>
+<option>Menton</option>
+<option>La Turbie</option>
+<option>Nice</option>
+<option>Villefranche</option>

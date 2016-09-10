@@ -1,0 +1,2437 @@
+# Copyright (C) 2014 BroadFast PRO Autoresponder
+# This file is distributed under the same license as the BroadFast PRO Autoresponder package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BroadFast PRO Autoresponder 2.2.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bft-pro\n"
+"POT-Creation-Date: 2014-07-17 13:02:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: controllers/campaigns.php:15
+msgid "Autoresponder campaign deleted"
+msgstr ""
+
+#: controllers/campaigns.php:22
+msgid "Autoresponder campaign saved"
+msgstr ""
+
+#: controllers/campaigns.php:44
+msgid "Autoresponder campaign created"
+msgstr ""
+
+#: controllers/campaigns.php:141
+msgid "Email message deleted"
+msgstr ""
+
+#: controllers/campaigns.php:149
+msgid "Email message saved"
+msgstr ""
+
+#: controllers/campaigns.php:170
+msgid "Email message created"
+msgstr ""
+
+#: controllers/lists.php:14
+msgid "Mailing list created"
+msgstr ""
+
+#: controllers/lists.php:24
+msgid "Mailing list deleted"
+msgstr ""
+
+#: controllers/lists.php:30
+msgid "Mailing list updated"
+msgstr ""
+
+#: controllers/lists.php:94
+msgid "User Added"
+msgstr ""
+
+#: controllers/lists.php:108
+msgid "User Deleted"
+msgstr ""
+
+#: controllers/lists.php:116
+msgid "User Saved"
+msgstr ""
+
+#: controllers/lists.php:137
+msgid "Please upload file"
+msgstr ""
+
+#: controllers/lists.php:141
+msgid "There must be a delimiter"
+msgstr ""
+
+#: controllers/lists.php:225
+msgid "%d new subscribers imported."
+msgstr ""
+
+#: controllers/lists.php:226
+msgid "The following %d emails are invalid and were not imported: %s"
+msgstr ""
+
+#: controllers/lists.php:247 views/list-users.php:40
+#: views/newsletter-log.php:12
+msgid "Email"
+msgstr ""
+
+#: controllers/lists.php:247 views/list-users.php:40
+msgid "Name"
+msgstr ""
+
+#: controllers/lists.php:247 views/list-users.php:40
+msgid "Date Signed"
+msgstr ""
+
+#: controllers/lists.php:247 views/list-users.php:40
+#: views/newsletter-log.php:12 views/newsletters.php:9
+#: views/user-log.html.php:12
+msgid "Status"
+msgstr ""
+
+#: controllers/lists.php:253 views/list-user.php:18 views/list-users.php:17
+#: views/list-users.php:51
+msgid "Active"
+msgstr ""
+
+#: controllers/lists.php:253 views/list-user.php:19 views/list-users.php:18
+#: views/list-users.php:51
+msgid "Inactive"
+msgstr ""
+
+#: controllers/lists.php:323
+msgid "<b>%s:</b> %s<br>"
+msgstr ""
+
+#: controllers/newsletters.php:20
+msgid "Newsletter deleted"
+msgstr ""
+
+#: controllers/newsletters.php:32
+msgid "The newsletter has been saved"
+msgstr ""
+
+#: controllers/newsletters.php:37 controllers/newsletters.php:74
+msgid "A test email with this newsletter has been sent to you."
+msgstr ""
+
+#: controllers/newsletters.php:43
+msgid ""
+"The newsletter has been saved and is being sent to selected mailing list."
+msgstr ""
+
+#: controllers/newsletters.php:69
+msgid "The newsletter has been created"
+msgstr ""
+
+#: controllers/newsletters.php:80
+msgid ""
+"The newsletter has been created and is being sent to selected mailing list."
+msgstr ""
+
+#: controllers/shortcodes.php:63 views/signup-form-visual.php:17
+#: views/signup-form.php:81
+msgid "Subscribe"
+msgstr ""
+
+#: models/attachment.php:19
+msgid "Mark to delete"
+msgstr ""
+
+#: models/bftpro.php:281
+msgid "Default"
+msgstr ""
+
+#: models/bftpro.php:295
+msgid ""
+"<b>Thank you for activating BroadFast PRO Autoresponder!</b> Please check "
+"our <a href=\"http://www.slideshare.net/pimteam/getting-started-with-"
+"broadfast-pro-for-wordpress\" target=\"_blank\">Quick getting started guide</"
+"a> and the <a href=\"http://localhost/wordpress/wp-admin/admin.php?"
+"page=bftpro_help\">Help</a> page to get started!"
+msgstr ""
+
+#. #-#-#-#-#  bft-pro.pot (BroadFast PRO Autoresponder 2.2.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: models/bftpro.php:302
+msgid "BroadFast PRO Autoresponder"
+msgstr ""
+
+#: models/bftpro.php:304
+msgid "Settings"
+msgstr ""
+
+#: models/bftpro.php:305
+msgid "Mailing Lists"
+msgstr ""
+
+#: models/bftpro.php:306
+msgid "Autoresponder Campaigns"
+msgstr ""
+
+#: models/bftpro.php:307
+msgid "Newsletters"
+msgstr ""
+
+#: models/bftpro.php:308
+msgid "Bounce Handling"
+msgstr ""
+
+#: models/bftpro.php:309 views/subscribe-email-options.html.php:2
+msgid "Subscribe by Email"
+msgstr ""
+
+#: models/bftpro.php:310
+msgid "Help"
+msgstr ""
+
+#: models/bftpro.php:315
+msgid "Manage Subscribers"
+msgstr ""
+
+#: models/bftpro.php:316
+msgid "Manage Custom Fields"
+msgstr ""
+
+#: models/bftpro.php:317
+msgid "Manage Email Messages"
+msgstr ""
+
+#: models/bftpro.php:319
+msgid "Email Log"
+msgstr ""
+
+#: models/bftpro.php:320
+msgid "Newsletter Log"
+msgstr ""
+
+#: models/bftpro.php:321
+msgid "User Log"
+msgstr ""
+
+#: models/bftpro.php:322
+msgid "Campaign Reports"
+msgstr ""
+
+#: models/bftpro.php:323 views/newsletter-report.html.php:2
+msgid "Newsletter Reports"
+msgstr ""
+
+#: models/bftpro.php:325
+msgid "Integrate in Contact Form"
+msgstr ""
+
+#: models/bftpro.php:352 views/signup-form.php:13
+msgid "Please provide a valid email address"
+msgstr ""
+
+#: models/bftpro.php:353 views/signup-form.php:7
+msgid "Please provide name"
+msgstr ""
+
+#: models/bftpro.php:354 views/signup-form.php:30 views/signup-form.php:37
+msgid "This field is required"
+msgstr ""
+
+#: models/bftpro.php:355
+msgid "You need to answer the verification question"
+msgstr ""
+
+#: models/bftpro.php:473 models/bftpro.php:488
+msgid "Thank you!"
+msgstr ""
+
+#: models/bftpro.php:492
+msgid "Sorry! The confirmation link is incorrect or expired."
+msgstr ""
+
+#: models/bftpro.php:511
+msgid "There is no subscriber with this email address"
+msgstr ""
+
+#: models/bftpro.php:523
+msgid "Thank you."
+msgstr ""
+
+#: models/bftpro.php:524
+msgid "You have been unsubscribed."
+msgstr ""
+
+#: models/bftpro.php:581
+msgid "Imported from BFT Lite"
+msgstr ""
+
+#: models/bftpro.php:595
+msgid "BFT Lite Autoresponder Sequence"
+msgstr ""
+
+#: models/bftpro.php:643
+msgid "What is the color of the snow? = white"
+msgstr ""
+
+#: models/bftpro.php:643
+msgid "Is fire hot or cold? = hot"
+msgstr ""
+
+#: models/bftpro.php:644
+msgid "In which continent is France? = Europe"
+msgstr ""
+
+#: models/list.php:85
+msgid "Invalid mailing list code"
+msgstr ""
+
+#: models/list.php:120
+msgid "A member unsubscribed."
+msgstr ""
+
+#: models/list.php:135
+msgid "New member signed up"
+msgstr ""
+
+#: models/list.php:140
+msgid "Email: "
+msgstr ""
+
+#: models/list.php:141
+msgid "Name: "
+msgstr ""
+
+#: models/list.php:142
+msgid "IP: "
+msgstr ""
+
+#: models/sender.php:56 models/sender.php:64
+msgid "To unsubscribe from this list please click the link below:"
+msgstr ""
+
+#: models/sender.php:214
+msgid "The following errors occured when sending emails:"
+msgstr ""
+
+#: models/sender.php:215
+msgid ""
+"Sending to %s returned error \"%s\". Please ensure the receiver email "
+"address is valid."
+msgstr ""
+
+#: models/user.php:132
+msgid "You must enter your name"
+msgstr ""
+
+#: models/user.php:146
+msgid ""
+"The image verification code is not correct. Please go back and try again."
+msgstr ""
+
+#: models/user.php:154
+msgid ""
+"The verification question was not answered correctly. Please go back and try "
+"again."
+msgstr ""
+
+#: models/user.php:171
+msgid "You are already subscribed to this mailing list"
+msgstr ""
+
+#: models/user.php:192
+msgid ""
+"Please check your email. A confirmation message has been sent to it. Your "
+"membership will not be activated before you click on the confirmation link "
+"inside the message"
+msgstr ""
+
+#: models/user.php:206
+msgid "You have been subscribed to the mailing list"
+msgstr ""
+
+#: models/user.php:258
+msgid "You have missed a required field"
+msgstr ""
+
+#: models/user.php:350
+msgid "Your account is already active."
+msgstr ""
+
+#: models/user.php:375
+msgid "You have successfully confirmed your subscription."
+msgstr ""
+
+#: models/widget.php:8
+msgid "BroadFast Autoresponder Widget"
+msgstr ""
+
+#: models/widget.php:47
+msgid "Subscribe By Email"
+msgstr ""
+
+#: models/widget.php:54
+msgid "Title:"
+msgstr ""
+
+#: models/widget.php:57
+msgid "Mailing List To Display:"
+msgstr ""
+
+#: views/ar-form.php:1 views/list-field.php:1 views/list-user.php:3
+#: views/list.php:1 views/mail-form.php:3 views/newsletter-form.php:1
+msgid "Add"
+msgstr ""
+
+#: views/ar-form.php:1 views/ars.php:16 views/ars.php:37
+#: views/list-field.php:1 views/list-fields.php:13 views/list-user.php:3
+#: views/list-users.php:60 views/list.php:1 views/lists.php:21
+#: views/lists.php:60 views/mail-form.php:3 views/mails.php:12
+#: views/mails.php:25 views/newsletter-form.php:1
+msgid "Edit"
+msgstr ""
+
+#: views/ar-form.php:1
+msgid "Autoresponder Campaign"
+msgstr ""
+
+#: views/ar-form.php:8
+msgid "Autoresponder Marketing Campaign Details"
+msgstr ""
+
+#: views/ar-form.php:9
+msgid "Campaign Name:"
+msgstr ""
+
+#: views/ar-form.php:10
+msgid "Sender Name/Email:"
+msgstr ""
+
+#: views/ar-form.php:11
+msgid ""
+"Please use either only valid email address or name/email combination in the "
+"format: <b>Name &lt;email@domain.com&gt;</b>"
+msgstr ""
+
+#: views/ar-form.php:12 views/list.php:12
+msgid "Optional Description:"
+msgstr ""
+
+#: views/ar-form.php:16
+msgid "Assign To Mailing Lists"
+msgstr ""
+
+#: views/ar-form.php:24
+msgid "Add Autoresponder Campaign"
+msgstr ""
+
+#: views/ar-form.php:26
+msgid "Save Campaign"
+msgstr ""
+
+#: views/ar-form.php:27
+msgid "Delete Campaign"
+msgstr ""
+
+#: views/ar-form.php:30 views/list-field.php:41 views/list-user.php:30
+#: views/list.php:74 views/mail-form.php:98 views/newsletter-form.php:70
+msgid "Cancel"
+msgstr ""
+
+#: views/ar-form.php:40
+msgid "Please provide a name for the marketing campaign"
+msgstr ""
+
+#: views/ar-form.php:47
+msgid "Please provide sender email for this email marketing campaign"
+msgstr ""
+
+#: views/ar-log.php:1
+msgid "Autoresponder Campaign Log"
+msgstr ""
+
+#: views/ar-log.php:4
+msgid "Mail In"
+msgstr ""
+
+#: views/ar-log.php:5
+msgid "Back to all email messages in this campaign"
+msgstr ""
+
+#: views/ar-log.php:8
+msgid "No emails has been sent up to this moment"
+msgstr ""
+
+#: views/ar-log.php:13 views/user-log.html.php:11
+msgid "Date"
+msgstr ""
+
+#: views/ar-log.php:13
+msgid "Sent to"
+msgstr ""
+
+#: views/ar-log.php:14
+msgid "Mailing list"
+msgstr ""
+
+#: views/ar-log.php:18
+msgid "(User ID: %d)"
+msgstr ""
+
+#: views/ar-log.php:25 views/list-users.php:68 views/newsletter-log.php:33
+msgid "Previous Page"
+msgstr ""
+
+#: views/ar-log.php:29 views/list-users.php:72 views/newsletter-log.php:37
+msgid "Next Page"
+msgstr ""
+
+#: views/ars.php:3
+msgid "Your Autoresponder Campaigns"
+msgstr ""
+
+#: views/ars.php:7
+msgid "Click here to create a marketing campaign"
+msgstr ""
+
+#: views/ars.php:10
+msgid "Remove filter and show all campaigns"
+msgstr ""
+
+#: views/ars.php:15 views/lists.php:19
+msgid "Name and description"
+msgstr ""
+
+#: views/ars.php:15
+msgid "Mailing lists"
+msgstr ""
+
+#: views/ars.php:16
+msgid "Email Messages"
+msgstr ""
+
+#: views/ars.php:16 views/newsletters.php:11
+msgid "Reports"
+msgstr ""
+
+#: views/ars.php:28 views/lists.php:30
+msgid "None yet"
+msgstr ""
+
+#: views/ars.php:30 views/lists.php:32 views/lists.php:34
+msgid "Manage"
+msgstr ""
+
+#: views/ars.php:31
+msgid "(%d messages)"
+msgstr ""
+
+#: views/ars.php:32
+msgid "(No messages yet)"
+msgstr ""
+
+#: views/ars.php:34
+msgid "View Reports"
+msgstr ""
+
+#: views/ars.php:35 views/newsletters.php:23
+msgid "%d%% opened"
+msgstr ""
+
+#: views/ars.php:36
+msgid "N/a"
+msgstr ""
+
+#: views/ars.php:41
+msgid "There are no marketing campaigns yet."
+msgstr ""
+
+#: views/bounce-options.html.php:2
+msgid "Handle Bounced Emails"
+msgstr ""
+
+#: views/bounce-options.html.php:4
+msgid ""
+"You can have one bounce email for all your autoresponder and newsletter "
+"campaigns. If you leave this blank the bounced emails will return to the "
+"same address which is used for sending."
+msgstr ""
+
+#: views/bounce-options.html.php:8
+msgid "Email address to receive bounces:"
+msgstr ""
+
+#: views/bounce-options.html.php:11
+msgid "I want to use automated bounces handling"
+msgstr ""
+
+#: views/bounce-options.html.php:14
+msgid "Configure authomated bounce handling"
+msgstr ""
+
+#: views/bounce-options.html.php:15
+msgid ""
+"If you want to use this, the email address to receive bounces should be used "
+"<b>only for bounced emails and no other emails.</b>"
+msgstr ""
+
+#: views/bounce-options.html.php:16
+msgid ""
+"Once in a while make sure to delete old emails from this email box. Handling "
+"thousands of bounced emails may slow down your site."
+msgstr ""
+
+#: views/bounce-options.html.php:18
+msgid ""
+"This section lets you configure the plugin to automatically delete users who "
+"bounce. In order to achieve this you need to let the plugin login to check "
+"the bounce email using the POP3 account details. This will happen once per "
+"day."
+msgstr ""
+
+#: views/bounce-options.html.php:21
+msgid "Delete email from all mailing lists after it bounces"
+msgstr ""
+
+#: views/bounce-options.html.php:21
+msgid "times."
+msgstr ""
+
+#: views/bounce-options.html.php:23 views/subscribe-email-options.html.php:19
+msgid "Email Server Host:"
+msgstr ""
+
+#: views/bounce-options.html.php:24 views/subscribe-email-options.html.php:20
+msgid "Email Server Port:"
+msgstr ""
+
+#: views/bounce-options.html.php:25 views/subscribe-email-options.html.php:21
+msgid "Account Login:"
+msgstr ""
+
+#: views/bounce-options.html.php:26 views/subscribe-email-options.html.php:22
+msgid "Account Password:"
+msgstr ""
+
+#: views/bounce-options.html.php:31 views/options.php:19 views/options.php:47
+#: views/options.php:63 views/options.php:76 views/options.php:86
+#: views/options.php:96 views/subscribe-email-options.html.php:43
+msgid "Save Options"
+msgstr ""
+
+#: views/campaign-report.html.php:2
+msgid "Viewing reports for campaign \"%s\""
+msgstr ""
+
+#: views/campaign-report.html.php:4
+msgid "Back to campaigns"
+msgstr ""
+
+#: views/campaign-report.html.php:7 views/newsletter-report.html.php:7
+msgid "Select period:"
+msgstr ""
+
+#: views/campaign-report.html.php:9 views/newsletter-report.html.php:9
+msgid "Refresh report"
+msgstr ""
+
+#: views/campaign-report.html.php:13
+msgid "There are no email messages in this campaign yet."
+msgstr ""
+
+#: views/campaign-report.html.php:18 views/newsletter-report.html.php:22
+msgid "Email subject"
+msgstr ""
+
+#: views/campaign-report.html.php:18 views/newsletter-report.html.php:22
+msgid "Num. sent"
+msgstr ""
+
+#: views/campaign-report.html.php:19 views/newsletter-report.html.php:23
+msgid "Num. read"
+msgstr ""
+
+#: views/campaign-report.html.php:19 views/list-users.php:43
+#: views/newsletter-report.html.php:23
+msgid "Open rate"
+msgstr ""
+
+#: views/error-log.html.php:2 views/help.php:2
+msgid "Help / User Manual"
+msgstr ""
+
+#: views/error-log.html.php:3 views/help.php:3
+msgid "Error Log"
+msgstr ""
+
+#: views/error-log.html.php:9
+msgid "Select date:"
+msgstr ""
+
+#: views/error-log.html.php:9 views/mails.php:12
+msgid "View Log"
+msgstr ""
+
+#: views/error-log.html.php:14
+msgid "No errors were found on the selected date"
+msgstr ""
+
+#: views/help.php:9
+msgid ""
+"If you are just starting please check our <a href=\"%s\" target=\"_blank"
+"\">quick getting started guide</a>!"
+msgstr ""
+
+#: views/help.php:10
+msgid "Visit also the online F.A.Q."
+msgstr ""
+
+#: views/help.php:11
+msgid "Contents of this page"
+msgstr ""
+
+#: views/help.php:14 views/help.php:25
+msgid "General Settings and Settings Regarding Sending of Emails"
+msgstr ""
+
+#: views/help.php:15 views/help.php:65
+msgid "Managing Mailing Lists"
+msgstr ""
+
+#: views/help.php:16 views/help.php:75
+msgid "Autoresponder Marketing Campaigns"
+msgstr ""
+
+#: views/help.php:17 views/help.php:91
+msgid "Sending Newsletters"
+msgstr ""
+
+#: views/help.php:18
+msgid "Reports and logs"
+msgstr ""
+
+#: views/help.php:19 views/help.php:104
+msgid "Help, Support, Upgrades"
+msgstr ""
+
+#: views/help.php:20 views/help.php:112
+msgid "Localization"
+msgstr ""
+
+#: views/help.php:21 views/help.php:119
+msgid "Known issues"
+msgstr ""
+
+#: views/help.php:26
+msgid ""
+"This section explains the <a href=\"admin.php?page=bftpro_options\">options "
+"page</a>. Most of the settings are explained on the screen, so this manual "
+"will only elaborate on what is left."
+msgstr ""
+
+#: views/help.php:28
+msgid ""
+"To save any changes to this page, scroll down to the end and click on \"Save "
+"All Options\" button. Any of the changes you have done will be saved."
+msgstr ""
+
+#: views/help.php:30
+msgid ""
+"The <strong>General Settings</strong> and <strong>Global Double Opt-in "
+"Email</strong> will affect everything <strong>unless overridden at a mailing "
+"list level</strong>. These settings are prepopulated with default values "
+"during the plugin installation."
+msgstr ""
+
+#: views/help.php:32
+msgid ""
+"Your Recaptcha (image verification to prevent spam) settings are global but "
+"showing the image verification code is configurable for every mailing list."
+msgstr ""
+
+#: views/help.php:34
+msgid "Email Sending Limits"
+msgstr ""
+
+#: views/help.php:36
+msgid ""
+"Because sending many emails at once can overload your server, especially on "
+"shared hosts, this autoresponder follows the approach to send all emails on "
+"batches. So in this section you should set some reasonable number of emails "
+"to be sent at once, and total number of emails that can be sent per day. "
+"Make sure to ask your hosting company if they impose any specific limits and "
+"stay compliant with them."
+msgstr ""
+
+#: views/help.php:38
+msgid ""
+"Have in mind that to avoid unexpected results the autoresponder will ignore "
+"these limits when sending confirmation (\"double opt-in\") emails, instant "
+"notifications to admin etc. So always set your limits a little below the "
+"absolute limits on your server."
+msgstr ""
+
+#: views/help.php:41
+msgid "Cron Jobs"
+msgstr ""
+
+#: views/help.php:43
+msgid ""
+"To send the emails in batches, we store information about what emails should "
+"be sent in the database. This means that a script should run once in a while "
+"to send the emails - preferably once per hour or even once each few minutes, "
+"depending on the number of mails you may want to send per day."
+msgstr ""
+
+#: views/help.php:45
+msgid ""
+"To handle this I recommend to set up a cron job on your server. Here is a <a "
+"href=\"http://calendarscripts.info/cron-jobs-tutorial.html\" target=\"_blank"
+"\">quick and easy guide</a> how to do it. The exact command you need to set "
+"is:"
+msgstr ""
+
+#: views/help.php:49
+msgid ""
+"You can also run the cron job manually by visiting <a href=\"%s\" target="
+"\"_blank\">the link</a> in your browser. If there are no errors you will see "
+"just a blank page with text \"Running in cron job mode\"."
+msgstr ""
+
+#: views/help.php:51
+msgid ""
+"If for any reason you can't or don't want to set up a real cron job, you can "
+"select the second option - \"I will rely on my blog visitors to initiate the "
+"email sending by visiting my blog\". This means every time when someone "
+"visits your blog, the autoresponder will start the procedure to send any "
+"scheduled emails that are not yet sent. Don't worry, we will not let this "
+"happen more often than once a minute, we will never let two procedure "
+"instances to run at the same time, and the autoresponder will not send any "
+"duplicate emails. But still this method has two disadvantages:"
+msgstr ""
+
+#: views/help.php:54
+msgid ""
+"Your blog needs to be visited regularly. If you have just a few visitors per "
+"day, some of your autoresponder emails may remain unsent."
+msgstr ""
+
+#: views/help.php:55
+msgid ""
+"Although the autoresponder keeps extra queries to the minimum, each visit to "
+"your blog will run a few extra database queries because of the email sending "
+"procedure checks. It is better to avoid this"
+msgstr ""
+
+#: views/help.php:58
+msgid "Sending Emails Through SMTP"
+msgstr ""
+
+#: views/help.php:60
+msgid ""
+"As this autoresponder works with the <strong>wp_mail</strong> function, any "
+"plugin that modifies its behavior will affect the autoresponder too. So it "
+"is easy to use SMTP - just enable some of the several free SMTP plugins for "
+"Wordpress. <a href=\"http://wordpress.org/plugins/easy-wp-smtp/\" target="
+"\"_blank\">Easy WP SMTP</a> seems to be a good choice."
+msgstr ""
+
+#: views/help.php:66
+msgid ""
+"Your mailing lists are different databases with subscribers. You can have as "
+"many mailing lists as you wish, and every subscriber can sign-up in one or "
+"more mailing lists. Then you can send different newsletters or schedule "
+"different autoresponder marketing campaigns to the different subscriber "
+"lists."
+msgstr ""
+
+#: views/help.php:68
+msgid ""
+"On the <a href=\"admin.php?page=bftpro_mailing_lists\">mailing lists</a> "
+"page you will be able to manage your lists and to obtain the \"Subscribe Form"
+"\" code so your users can sign-up through the blog. You have the option to "
+"use a shortcode inside a page or post, or a template tag to insert a signup "
+"form in your theme - for example in the sidebar. If your theme is widgets-"
+"enabled, you can use the BroadFast Autoresponder widget instead of the "
+"template tag."
+msgstr ""
+
+#: views/help.php:70
+msgid ""
+"This page also lets you manage your subscribers, search and filter them, and "
+"import/export them to CSV. You can also create unlimited number of "
+"<strong>custom fields</strong> for each mailing list to obtain extra contact "
+"data from your subscribers, or data like age, gender, nationality and so on."
+msgstr ""
+
+#: views/help.php:77
+msgid ""
+"You can create unlimited marketing campaigns and each campaign can be "
+"assigned to one or more of your mailing lists. Assigning a campaign to a "
+"mailing list means that the emails scheduled in it will be sent to the "
+"subscribers in that list according to each mail settings."
+msgstr ""
+
+#: views/help.php:79
+msgid ""
+"There are 4 types of emails that can be scheduled in every autoresponder "
+"campaign."
+msgstr ""
+
+#: views/help.php:82
+msgid ""
+"<strong>Sequential emails</strong> are sent a number of days after user has "
+"registered to your mailing list or confirmed their email if double opt-in is "
+"required. To send a \"welcome\" email just enter \"0\" for \"days after "
+"registration\" and the email will be send immediately on registration/double "
+"opt-in."
+msgstr ""
+
+#: views/help.php:83
+msgid ""
+"<strong>Fixed date emails</strong> are simply sent on a choosen date. Use "
+"them to schedule announcements, holiday greetings etc."
+msgstr ""
+
+#: views/help.php:84
+msgid ""
+"<strong>Every X days mails</strong> will be send indefinitely on the "
+"predefined interval. Please be careful with these as they may annoy your "
+"subscribers, especially if sent too often."
+msgstr ""
+
+#: views/help.php:85
+msgid ""
+"Finally, you can create <strong>weekday mails</strong> that can be sent "
+"every Monday, Tuesday, Wednesday, etc."
+msgstr ""
+
+#: views/help.php:93
+msgid ""
+"In addition to autoresponder messages you can send one-off email blasts "
+"(newsletters). They will be sent on batches accordingly to the settings in "
+"the options page. The Status column will show you whether your newsletter is "
+"currently in process of sending, completed, or not yet sent at all. You can "
+"cancel or restart newsletters in process, or edit them on-the-fly."
+msgstr ""
+
+#: views/help.php:97
+msgid "Reports and Logs"
+msgstr ""
+
+#: views/help.php:99
+msgid ""
+"This plugin provides reports for sent and read newsletters and autoresponder "
+"messages plus detailed log of what emails are sent or need to be sent. "
+"Please note that the \"read\" stats (i.e. open rate) are not 100% reliable "
+"because many email clients disable images by default. So the number of "
+"opened emails shown might be less than the real number."
+msgstr ""
+
+#: views/help.php:106
+msgid ""
+"For any questions, or if you need help our contact details are <a href="
+"\"http://calendarscripts.info/contact.html\" target=\"_blank\">here</a>. "
+"Support and upgrades are free up to one year after your purchase. After that "
+"you can renew and upgrate at 50% of the current product price which starts "
+"another one year of free support and upgrades."
+msgstr ""
+
+#: views/help.php:107
+msgid ""
+"<strong>Upgrading is easy</strong>. Once you have obtained the newer version "
+"simply deactivate and delete the old one, then install the new file. You "
+"will not lose any data unless you explicitly select this on the options page."
+msgstr ""
+
+#: views/help.php:114
+msgid ""
+"If you want to translate the plugin in your language, find the <strong>bft-"
+"pro.pot</strong> file in the root folder, create your locale and place it in "
+"<strong>languages/</strong> folder. Note that the plugin textdomain is "
+"\"bftpro\" so your files would be called something like bftpro-fr_FR.po and "
+"bftpro-fr_FR.mo. See <a href=\"http://blog.calendarscripts.info/how-to-"
+"translate-a-wordpress-plugin/\" target=\"_blank\">this guide</a> for more "
+"information."
+msgstr ""
+
+#: views/help.php:121
+msgid ""
+"When you select \"Both\" for \"Email type\" in newlsetters or autoresponder "
+"emails, attachments cannot be sent. This is due to ineficciency of wp_mail "
+"function which does not recognize custom MIME boundaries. This issue is "
+"currently unresolved and we cannot give any estimate of when and if ever it "
+"will be fixed. So please if you want to send emails with attachments select "
+"either \"HTML\" or \"Text\" for email type."
+msgstr ""
+
+#: views/integration-contact-form.html.php:2
+msgid "Mailing List to Contact Form Integration"
+msgstr ""
+
+#: views/integration-contact-form.html.php:4
+msgid "Back to the mailing lists"
+msgstr ""
+
+#: views/integration-contact-form.html.php:6
+msgid ""
+"Using the shortcode below will display a checkbox for subscribing in the "
+"mailing list inside your contact form. We currently support integration with "
+"the most popular contact form plugin - <a href=\"%s\" target=\"_blank"
+"\">Contact Form 7</a>."
+msgstr ""
+
+#: views/integration-contact-form.html.php:12
+msgid "Select mailing list:"
+msgstr ""
+
+#: views/integration-contact-form.html.php:18
+msgid "Checked by default"
+msgstr ""
+
+#: views/integration-contact-form.html.php:20
+msgid "CSS classes (optional):"
+msgstr ""
+
+#: views/integration-contact-form.html.php:21
+msgid "HTML ID (optional):"
+msgstr ""
+
+#: views/integration-contact-form.html.php:22
+msgid "Refresh Shortcode"
+msgstr ""
+
+#: views/integration-contact-form.html.php:24
+msgid "Shortcode to use in contact form:"
+msgstr ""
+
+#: views/integration-contact-form.html.php:25
+msgid "Subscribe for %s"
+msgstr ""
+
+#: views/integration-contact-form.html.php:27
+msgid ""
+"Place this shortcode inside your Contact Form 7 contact form - right where "
+"you want the checkbox to appear."
+msgstr ""
+
+#: views/integration-contact-form.html.php:33
+msgid ""
+"The selected mailing list has some custom fields. Using the shortcodes below "
+"you can have these fields also included in your contact form."
+msgstr ""
+
+#: views/integration-contact-form.html.php:34
+msgid ""
+"The information from these fields will not be included in the contact form "
+"message, but will be stored along with your subscribed user data in the "
+"mailing list."
+msgstr ""
+
+#: views/integration-contact-form.html.php:37
+msgid "Field"
+msgstr ""
+
+#: views/integration-contact-form.html.php:38
+msgid "Code"
+msgstr ""
+
+#: views/integration-contact-form.html.php:46
+msgid ""
+"Place any of these codes inside your Contact Form 7 contact form - right "
+"where you want the custom field to appear."
+msgstr ""
+
+#: views/list-field.php:5
+msgid "Field Name:"
+msgstr ""
+
+#: views/list-field.php:6
+msgid "Only small letters and numbers, no spaces."
+msgstr ""
+
+#: views/list-field.php:8
+msgid "Field Label:"
+msgstr ""
+
+#: views/list-field.php:9
+msgid "This is what the user will see when they sign-up."
+msgstr ""
+
+#: views/list-field.php:11
+msgid "Field Type:"
+msgstr ""
+
+#: views/list-field.php:12
+msgid "Text Field"
+msgstr ""
+
+#: views/list-field.php:13
+msgid "Rich Text Area"
+msgstr ""
+
+#: views/list-field.php:14
+msgid "Simple Text Area"
+msgstr ""
+
+#: views/list-field.php:15
+msgid "Checkbox"
+msgstr ""
+
+#: views/list-field.php:16
+msgid "Drop Down"
+msgstr ""
+
+#: views/list-field.php:17
+msgid "Radio Group"
+msgstr ""
+
+#: views/list-field.php:18
+msgid "Date Selector"
+msgstr ""
+
+#: views/list-field.php:21
+msgid "Format:"
+msgstr ""
+
+#: views/list-field.php:22
+msgid ""
+"The only allowed letters for the field format are Y, M and D. Use dashes "
+"between parts."
+msgstr ""
+
+#: views/list-field.php:27
+msgid "Possible values:"
+msgstr ""
+
+#: views/list-field.php:29
+msgid "Enter one value per line."
+msgstr ""
+
+#: views/list-field.php:31
+msgid "This is a required field"
+msgstr ""
+
+#: views/list-field.php:35
+msgid "Add Field"
+msgstr ""
+
+#: views/list-field.php:37
+msgid "Save Field"
+msgstr ""
+
+#: views/list-field.php:38
+msgid "Delete Field"
+msgstr ""
+
+#: views/list-field.php:48
+msgid "Please enter name"
+msgstr ""
+
+#: views/list-field.php:54
+msgid "Please enter label"
+msgstr ""
+
+#: views/list-fields.php:3
+msgid "Click here to add field"
+msgstr ""
+
+#: views/list-fields.php:4
+msgid "Back to manage mailing lists"
+msgstr ""
+
+#: views/list-fields.php:8
+msgid "Field Label"
+msgstr ""
+
+#: views/list-fields.php:8
+msgid "Field Name"
+msgstr ""
+
+#: views/list-fields.php:8
+msgid "Field Type"
+msgstr ""
+
+#: views/list-fields.php:9
+msgid "Is Required?"
+msgstr ""
+
+#: views/list-fields.php:9 views/list-users.php:47
+msgid "Edit/Delete"
+msgstr ""
+
+#: views/list-fields.php:12
+msgid "Yes"
+msgstr ""
+
+#: views/list-fields.php:12
+msgid "No"
+msgstr ""
+
+#: views/list-fields.php:17
+msgid "There are no custom fields in this list yet."
+msgstr ""
+
+#: views/list-import.php:8 views/list-user.php:5
+msgid "Back to manage subscribers"
+msgstr ""
+
+#: views/list-import.php:12
+msgid ""
+"<strong>Note: Existing members' data will be ignored and will not be "
+"overrriden.</strong> If you want to update existing members, please delete "
+"them first. This is done to avoid mistakenly uploading outdated information."
+msgstr ""
+
+#: views/list-import.php:14
+msgid "Field separator in the CSV file:"
+msgstr ""
+
+#: views/list-import.php:15
+msgid "For tabulator enter <strong>\\t</strong>"
+msgstr ""
+
+#: views/list-import.php:16
+msgid "Column numbers of <strong>Email, Name</strong>:"
+msgstr ""
+
+#: views/list-import.php:17
+msgid ""
+"This reflects the order of columns in your import file. So if Email is the "
+"first column, and Name is the second, enter \"1,2\". If for example Email is "
+"third column, and name is first, type \"3,1\""
+msgstr ""
+
+#: views/list-import.php:19
+msgid "Column number of <strong>IP Address</strong>:"
+msgstr ""
+
+#: views/list-import.php:19
+msgid "(Optional)"
+msgstr ""
+
+#: views/list-import.php:21
+msgid ""
+"<strong>Additional fields column numbers:</strong><br>\n"
+"\tIf your CSV file contains some of the extra fields, enter the column "
+"number from the CSV in front of each field. If the field is not presented in "
+"the CSV file, just leave it blank."
+msgstr ""
+
+#: views/list-import.php:24
+msgid "Signup date"
+msgstr ""
+
+#: views/list-import.php:33
+msgid ""
+"* If your CSV file contains more fields than email and name or they are in "
+"different order,\n"
+"\t\tjust enter that.<br /><br /> <b>For example</b>:\n"
+"\t\t<ul>\n"
+"\t\t\t<li>For a CSV file formatted like <b>johnsmith@yahoo.com, John Smith</"
+"b> enter <b>1, 2</b></li>\n"
+"\t\t\t<li>For a CSV file formatted like <b>John Smith, johnsmith@yahoo.com</"
+"b> enter <b>2, 1</b></li>\n"
+"\t\t\t<li>For a CSV file formatted like <b>John Smith, Male, johnsmith@yahoo."
+"com, USA</b> enter <b>3, 1</b></li>\n"
+"\t\t</ul> \n"
+"\t\tYou can also combine fields and construct the 'name' field from more "
+"than one field in the CSV\n"
+"\t\t<ul>\n"
+"\t\t\t<li>For a CSV file formatted like <b>johnsmith@yahoo.com, Smith, John</"
+"b> enter <b>1, 3+2</b></li>\n"
+"\t\t\t<li>For a CSV file formatted like <b>Smith, John, johnsmith@yahoo.com</"
+"b> enter <b>3, 2+1</b></li>\n"
+"\t\t\t<li>For a CSV file formatted like <b>John, Smith, Male, "
+"johnsmith@yahoo.com, USA</b> enter <b>4, 1+2</b></li>\n"
+"\t\t</ul>"
+msgstr ""
+
+#: views/list-import.php:49
+msgid "Skip first line (column titles) when importing"
+msgstr ""
+
+#: views/list-import.php:51
+msgid "Upload CSV file:"
+msgstr ""
+
+#: views/list-import.php:53
+msgid "Import Members"
+msgstr ""
+
+#: views/list-user.php:14
+msgid "User Name:"
+msgstr ""
+
+#: views/list-user.php:15
+msgid "User Email:"
+msgstr ""
+
+#: views/list-user.php:16
+msgid "Registration Date:"
+msgstr ""
+
+#: views/list-user.php:17
+msgid "Status:"
+msgstr ""
+
+#: views/list-user.php:24
+msgid "Add User"
+msgstr ""
+
+#: views/list-user.php:26
+msgid "Save User"
+msgstr ""
+
+#: views/list-user.php:27
+msgid "Delete User"
+msgstr ""
+
+#: views/list-users.php:4
+msgid "Manage mailing lists"
+msgstr ""
+
+#: views/list-users.php:5
+msgid "Manage autoresponder campaigns"
+msgstr ""
+
+#: views/list-users.php:8
+msgid "Show/Hide Search Form"
+msgstr ""
+
+#: views/list-users.php:13
+msgid "Filter by email"
+msgstr ""
+
+#: views/list-users.php:14
+msgid "Filter by name"
+msgstr ""
+
+#: views/list-users.php:15
+msgid "Filter by status"
+msgstr ""
+
+#: views/list-users.php:16
+msgid "Any Status"
+msgstr ""
+
+#: views/list-users.php:19
+msgid "Unsubscribed"
+msgstr ""
+
+#: views/list-users.php:21
+msgid "Filter by IP address"
+msgstr ""
+
+#: views/list-users.php:22
+msgid "No. mails opened:"
+msgstr ""
+
+#: views/list-users.php:22
+msgid "(from - to)"
+msgstr ""
+
+#: views/list-users.php:23
+msgid ""
+"Note that \"No. mails opened\" is not 100% reliable stat. It loads a small "
+"graphic in the email to mark which email is opened. But nowadays many email "
+"clients do not show the graphics by default, unless the user explicitly "
+"selects so."
+msgstr ""
+
+#: views/list-users.php:26
+msgid "Filter subscribers"
+msgstr ""
+
+#: views/list-users.php:27
+msgid "Reset filters"
+msgstr ""
+
+#: views/list-users.php:32
+msgid "Add Subscriber"
+msgstr ""
+
+#: views/list-users.php:32
+msgid "Import Subscribers"
+msgstr ""
+
+#: views/list-users.php:34
+msgid "Export Subscribers"
+msgstr ""
+
+#: views/list-users.php:34
+msgid ""
+"(The exported file will be <b>semicolon</b> delimited. See <a href=\"%s\" "
+"target=\"_blank\">how to open it</a>.)"
+msgstr ""
+
+#: views/list-users.php:41
+msgid "Emails sent"
+msgstr ""
+
+#: views/list-users.php:42
+msgid "Emails read"
+msgstr ""
+
+#: views/list-users.php:45 views/mail-form.php:25
+msgid "Custom fields"
+msgstr ""
+
+#: views/list-users.php:52
+msgid "(Unsubscribed)"
+msgstr ""
+
+#: views/list-users.php:63
+msgid "Delete Selected Subscribers"
+msgstr ""
+
+#: views/list-users.php:76
+msgid ""
+"There are no subscribers in this list yet or none of them match your filters."
+msgstr ""
+
+#: views/list-users.php:92
+msgid "Are you sure?"
+msgstr ""
+
+#: views/list.php:1
+msgid "Mailing List"
+msgstr ""
+
+#: views/list.php:8
+msgid "List Details"
+msgstr ""
+
+#: views/list.php:9
+msgid "List Name:"
+msgstr ""
+
+#: views/list.php:10
+msgid "Default Sender Email:"
+msgstr ""
+
+#: views/list.php:11
+msgid "Used for double opt-in and other automated messages."
+msgstr ""
+
+#: views/list.php:14
+msgid "Enable ReCaptcha for any signup forms of this mailing list."
+msgstr ""
+
+#: views/list.php:14
+msgid "Note that reCaptcha can be included only once in one web page."
+msgstr ""
+
+#: views/list.php:17
+msgid ""
+"Enable Question based \"captcha\" for any signup forms of this mailing list."
+msgstr ""
+
+#: views/list.php:21
+msgid "Registration Settings"
+msgstr ""
+
+#: views/list.php:22
+msgid "Notify me when a new subscriber registers"
+msgstr ""
+
+#: views/list.php:24
+msgid "Notify me when a someone unsubscribes"
+msgstr ""
+
+#: views/list.php:26
+msgid ""
+"Automatically subscribe in this list everyone who registers in my blog (To "
+"avoid spam subscriptions this will happen after they log-in for the first "
+"time!)"
+msgstr ""
+
+#: views/list.php:28
+msgid ""
+"When user subscribes to this mailing lists, register them as subscriber for "
+"my site too. (Happens when the subscription is activated.)"
+msgstr ""
+
+#: views/list.php:30
+msgid "Notifications email(s):"
+msgstr ""
+
+#: views/list.php:30
+msgid "(You can enter multiple notification emails separated by comma)"
+msgstr ""
+
+#: views/list.php:32
+msgid "After registration,<br> go to (Enter full URL):"
+msgstr ""
+
+#: views/list.php:34
+msgid "Make 'name' a required field (email is always required)"
+msgstr ""
+
+#: views/list.php:38
+msgid "Registration Form Settings"
+msgstr ""
+
+#: views/list.php:39
+msgid ""
+"Optionally you can use a graphic for the \"Submit\" button on the "
+"registration form. There are multiple codes that can be used to display this "
+"registration form on your site - you can get them from your <a href=\"%s"
+"\">mailing lists</a> page."
+msgstr ""
+
+#: views/list.php:41
+msgid "Graphic URL:"
+msgstr ""
+
+#: views/list.php:41
+msgid "(Leave blank to use the default signup button)"
+msgstr ""
+
+#: views/list.php:43
+msgid ""
+"If you want to upload graphic you can do it in your <a href=\"%s\" target="
+"\"_blank\">media library</a>. Then you can copy the file URL as shown <a "
+"href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: views/list.php:47
+msgid "Email Confirmation Settings"
+msgstr ""
+
+#: views/list.php:48
+msgid ""
+"Require email confirmation ('Double opt-in') when someone subscribes for "
+"this mailing list."
+msgstr ""
+
+#: views/list.php:50
+msgid "After double opt-in confirmation, go to (Enter full URL):"
+msgstr ""
+
+#: views/list.php:52
+msgid ""
+"Confirmation subject and message are optional. If you omit them, I'll use "
+"the ones saved in your <a href='admin.php?page=bftpro_options'>Broadfast "
+"Settings</a> page. Feel free to use the masks {{list-name}} and {{url}} "
+"inside the email subject and/or contents. <strong>Using HTML Code is allowed."
+"</strong> If you don't enter anything here, default content will be used."
+msgstr ""
+
+#: views/list.php:54
+msgid "Confirmation Subject:"
+msgstr ""
+
+#: views/list.php:55
+msgid "Confirmation message:"
+msgstr ""
+
+#: views/list.php:56
+msgid "You can use the variables %s and %s to customize this message."
+msgstr ""
+
+#: views/list.php:61
+msgid "Unsubscribe Text"
+msgstr ""
+
+#: views/list.php:62
+msgid ""
+"If you leave this empty, default text will be used. The unsubscribe link "
+"will be added after your text."
+msgstr ""
+
+#: views/list.php:68
+msgid "Add Mailing List"
+msgstr ""
+
+#: views/list.php:70
+msgid "Save List"
+msgstr ""
+
+#: views/list.php:71
+msgid "Delete List"
+msgstr ""
+
+#: views/list.php:84
+msgid "Please provide at least a name"
+msgstr ""
+
+#: views/lists.php:1
+msgid "Your Mailing Lists"
+msgstr ""
+
+#: views/lists.php:17
+msgid "Click here to add a new mailing list"
+msgstr ""
+
+#: views/lists.php:19
+msgid "Autoresponders"
+msgstr ""
+
+#: views/lists.php:20
+msgid "Subscribers"
+msgstr ""
+
+#: views/lists.php:20
+msgid "Custom Fields"
+msgstr ""
+
+#: views/lists.php:21
+msgid "Subscribe Form"
+msgstr ""
+
+#: views/lists.php:33
+msgid "%d%% open rate"
+msgstr ""
+
+#: views/lists.php:36
+msgid "Shortcode:"
+msgstr ""
+
+#: views/lists.php:38
+msgid "WordPress-friendly form code (for the rich text editor)"
+msgstr ""
+
+#: views/lists.php:41
+msgid "How to use the code below:"
+msgstr ""
+
+#: views/lists.php:43
+msgid "Copy the code by clicking in the box below."
+msgstr ""
+
+#: views/lists.php:44
+msgid "Create a post or page in your blog or edit an existing post or page."
+msgstr ""
+
+#: views/lists.php:45
+msgid ""
+"Paste the code in the text or visual mode and feel free to edit it any way "
+"you wish without changing the contents of the shortcodes."
+msgstr ""
+
+#: views/lists.php:49
+msgid "For Text mode"
+msgstr ""
+
+#: views/lists.php:49
+msgid "For Visual mode"
+msgstr ""
+
+#: views/lists.php:55
+msgid "Form code for using outside of the blog (HTML)"
+msgstr ""
+
+#: views/lists.php:58
+msgid "Integrate in contact form"
+msgstr ""
+
+#: views/lists.php:64
+msgid ""
+"You can embed every mailing list code right in any page or post. You can "
+"also enable a <a href='widgets.php'>widget</a> for the mailing list."
+msgstr ""
+
+#: views/lists.php:66
+msgid "Generic Codes"
+msgstr ""
+
+#: views/lists.php:68
+msgid ""
+"This code will let the user choose which mailing list they want to sign up "
+"to by a drop-down selector (default). Please note that custom fields will "
+"not appear for such form and captcha will not be enabled. Required custom "
+"fields will be automatically filled with \"1\"."
+msgstr ""
+
+#: views/lists.php:70
+msgid "Generic shortcode:"
+msgstr ""
+
+#: views/lists.php:72
+msgid "You can also specify a different mailing list selector:"
+msgstr ""
+
+#: views/lists.php:74
+msgid "will display radio buttons insead of drop-down."
+msgstr ""
+
+#: views/lists.php:75
+msgid ""
+"will display checboxes and will allow the user to subscribe to several "
+"mailing lists at once. The last selected list message and redirection "
+"settings will be used."
+msgstr ""
+
+#: views/mail-form.php:3
+msgid "Email Message in"
+msgstr ""
+
+#: views/mail-form.php:7
+msgid "Back to the autoresponder campaign"
+msgstr ""
+
+#: views/mail-form.php:12
+msgid "Email Message Details"
+msgstr ""
+
+#: views/mail-form.php:13 views/newsletter-form.php:9
+msgid "From Address (Sender):"
+msgstr ""
+
+#: views/mail-form.php:14
+msgid "Email Subject:"
+msgstr ""
+
+#: views/mail-form.php:15
+msgid "Email Message:"
+msgstr ""
+
+#: views/mail-form.php:16 views/newsletter-form.php:12
+msgid ""
+"You can use the following short codes inside the email content. They will be "
+"replaced with dynamic data from your mailign lists."
+msgstr ""
+
+#: views/mail-form.php:17 views/newsletter-form.php:13
+msgid "Basic fields"
+msgstr ""
+
+#: views/mail-form.php:19 views/newsletter-form.php:15
+msgid "subscriber email"
+msgstr ""
+
+#: views/mail-form.php:20 views/newsletter-form.php:16
+msgid "subscriber name"
+msgstr ""
+
+#: views/mail-form.php:21 views/newsletter-form.php:17
+msgid "subscriber first name"
+msgstr ""
+
+#: views/mail-form.php:34 views/newsletter-form.php:23
+msgid "Email type:"
+msgstr ""
+
+#: views/mail-form.php:35 views/newsletter-form.php:24
+msgid "HTML"
+msgstr ""
+
+#: views/mail-form.php:36 views/newsletter-form.php:25
+msgid "Text"
+msgstr ""
+
+#: views/mail-form.php:37 views/newsletter-form.php:26
+msgid "Both"
+msgstr ""
+
+#: views/mail-form.php:42 views/newsletter-form.php:31
+msgid "Attachments (optional)"
+msgstr ""
+
+#: views/mail-form.php:43 views/newsletter-form.php:32
+msgid "Upload file(s):"
+msgstr ""
+
+#: views/mail-form.php:51
+msgid "Email Sending Options"
+msgstr ""
+
+#: views/mail-form.php:52
+msgid "Send"
+msgstr ""
+
+#: views/mail-form.php:53
+msgid "days after user registration."
+msgstr ""
+
+#: views/mail-form.php:54
+msgid "Send on"
+msgstr ""
+
+#: views/mail-form.php:57 views/mail-form.php:60
+msgid "Send every"
+msgstr ""
+
+#: views/mail-form.php:58
+msgid "days."
+msgstr ""
+
+#: views/mail-form.php:62
+msgid "Monday"
+msgstr ""
+
+#: views/mail-form.php:63
+msgid "Tuesday"
+msgstr ""
+
+#: views/mail-form.php:64
+msgid "Wednesday"
+msgstr ""
+
+#: views/mail-form.php:65
+msgid "Thursday"
+msgstr ""
+
+#: views/mail-form.php:66
+msgid "Friday"
+msgstr ""
+
+#: views/mail-form.php:67
+msgid "Saturday"
+msgstr ""
+
+#: views/mail-form.php:68
+msgid "Sunday"
+msgstr ""
+
+#: views/mail-form.php:75
+msgid "Time of the day"
+msgstr ""
+
+#: views/mail-form.php:77
+msgid "Send any time of the day"
+msgstr ""
+
+#: views/mail-form.php:78
+msgid "Send after"
+msgstr ""
+
+#: views/mail-form.php:83
+msgid "o'clock"
+msgstr ""
+
+#: views/mail-form.php:84
+msgid ""
+"This setting uses your MySQL server time. Your current server time is <b>%s</"
+"b>."
+msgstr ""
+
+#: views/mail-form.php:92
+msgid "Create Email Message"
+msgstr ""
+
+#: views/mail-form.php:94
+msgid "Save Message"
+msgstr ""
+
+#: views/mail-form.php:95
+msgid "Delete Message"
+msgstr ""
+
+#: views/mail-form.php:108
+msgid "Please provide sender email for this email message"
+msgstr ""
+
+#: views/mail-form.php:115 views/newsletter-form.php:92
+msgid "Please provide subject"
+msgstr ""
+
+#: views/mails.php:5
+msgid "Back to autoresponder campaigns"
+msgstr ""
+
+#: views/mails.php:7
+msgid "Click here to create a new email message"
+msgstr ""
+
+#: views/mails.php:11 views/newsletters.php:9 views/user-log.html.php:11
+msgid "Subject"
+msgstr ""
+
+#: views/mails.php:11
+msgid "Sending Rule"
+msgstr ""
+
+#: views/mails.php:18
+msgid "Send on "
+msgstr ""
+
+#: views/mails.php:20
+msgid "%d days %s user's %s"
+msgstr ""
+
+#: views/mails.php:24
+msgid "View log"
+msgstr ""
+
+#: views/mails.php:29
+msgid "There are no email messages yet."
+msgstr ""
+
+#: views/newsletter-form.php:1 views/user-log.html.php:18
+msgid "Newsletter"
+msgstr ""
+
+#: views/newsletter-form.php:8
+msgid "Newsletter Message Details"
+msgstr ""
+
+#: views/newsletter-form.php:10
+msgid "Newsletter Subject:"
+msgstr ""
+
+#: views/newsletter-form.php:11
+msgid "Newsletter Message:"
+msgstr ""
+
+#: views/newsletter-form.php:20
+msgid ""
+"Other dynamic tags may be available depending on the mailing list you choose "
+"to send to"
+msgstr ""
+
+#: views/newsletter-form.php:38
+msgid "Select Mailing List"
+msgstr ""
+
+#: views/newsletter-form.php:39
+msgid "Send to this list:"
+msgstr ""
+
+#: views/newsletter-form.php:40
+msgid "- Please select -"
+msgstr ""
+
+#: views/newsletter-form.php:48
+msgid "Test Newsletter"
+msgstr ""
+
+#: views/newsletter-form.php:49
+msgid "Send only a test email"
+msgstr ""
+
+#: views/newsletter-form.php:50
+msgid ""
+"When this is selected click on \"Send\" button and the newsletter will be "
+"delivered to %s. It will not be sent or resent to the mailing list and will "
+"not disturb in any way any sending in progress."
+msgstr ""
+
+#: views/newsletter-form.php:59
+msgid "Create and Save"
+msgstr ""
+
+#: views/newsletter-form.php:60
+msgid "Create And Send"
+msgstr ""
+
+#: views/newsletter-form.php:62
+msgid "Save Newsletter"
+msgstr ""
+
+#: views/newsletter-form.php:63
+msgid "Save and Send"
+msgstr ""
+
+#: views/newsletter-form.php:65
+msgid "Cancel Sending"
+msgstr ""
+
+#: views/newsletter-form.php:67
+msgid "Delete Newsletter"
+msgstr ""
+
+#: views/newsletter-form.php:73
+msgid ""
+"Warning: this newsletter is currently in progress. This means that if you "
+"click on 'Save Newsletter' button, the changes will affect all the "
+"subscribers that have not yet received the newsletter. If you click 'Save "
+"and Send' the mailing will be RESTARTED from the beginning with the new "
+"content."
+msgstr ""
+
+#: views/newsletter-form.php:85
+msgid "Please provide sender email for this newsletter"
+msgstr ""
+
+#: views/newsletter-form.php:98
+msgid "Please select mailing lsit"
+msgstr ""
+
+#: views/newsletter-log.php:1
+msgid "Newsletter Progress Details"
+msgstr ""
+
+#: views/newsletter-log.php:3
+msgid "Showing progress for"
+msgstr ""
+
+#: views/newsletter-log.php:5 views/newsletter-report.html.php:4
+msgid "Back to newsletters"
+msgstr ""
+
+#: views/newsletter-log.php:7
+msgid "Sending progress: %d emails have been sent from %d total"
+msgstr ""
+
+#: views/newsletter-log.php:15 views/user-log.html.php:19
+msgid "Sent"
+msgstr ""
+
+#: views/newsletter-log.php:16
+msgid "In queue"
+msgstr ""
+
+#: views/newsletter-log.php:20
+msgid "What does \"In queue\" mean?"
+msgstr ""
+
+#: views/newsletter-log.php:22
+msgid ""
+"When you see \"in queue\" under the \"Status\" column this means that the "
+"newsletter is not yet sent to the given email address. There might be "
+"several reasons for this:"
+msgstr ""
+
+#: views/newsletter-log.php:24
+msgid ""
+"The cron job did not reach these mails yet. This depends on the cron job "
+"frequency and the limits you have set up in your <a href=\"%s\" target="
+"\"_blank\">autoresponder options</a> page."
+msgstr ""
+
+#: views/newsletter-log.php:25
+msgid ""
+"The cron job is not at all set up. Did you set it up as explained on the "
+"same autoresponder options page?"
+msgstr ""
+
+#: views/newsletter-log.php:26
+msgid ""
+"Maybe there is an error in your email sending process. Check your <a href="
+"\"%s\" target=\"_blank\">email sending log</a>."
+msgstr ""
+
+#: views/newsletter-report.html.php:13
+msgid "Showing reports only for newsletter \"%s\"."
+msgstr ""
+
+#: views/newsletter-report.html.php:13
+msgid "Clear this filter and show reports for all newsletters"
+msgstr ""
+
+#: views/newsletter-report.html.php:17
+msgid "There are no newsletter campaigns."
+msgstr ""
+
+#: views/newsletters.php:1
+msgid "Your Newsletters"
+msgstr ""
+
+#: views/newsletters.php:5
+msgid "Click here to create a newsletter"
+msgstr ""
+
+#: views/newsletters.php:9
+msgid "Sending To"
+msgstr ""
+
+#: views/newsletters.php:9
+msgid "Cteated on"
+msgstr ""
+
+#: views/newsletters.php:10
+msgid "Last sent on"
+msgstr ""
+
+#: views/newsletters.php:12 views/newsletters.php:24
+msgid "Send or Edit"
+msgstr ""
+
+#: views/newsletters.php:17
+msgid "Not selected"
+msgstr ""
+
+#: views/newsletters.php:19
+msgid "In progress"
+msgstr ""
+
+#: views/newsletters.php:22
+msgid "view reports"
+msgstr ""
+
+#: views/newsletters.php:28
+msgid "There are no newsletters yet."
+msgstr ""
+
+#: views/options.php:1
+msgid "BroadFast Autoresponder options"
+msgstr ""
+
+#: views/options.php:5
+msgid ""
+"WARNING: You have selected \"I will set up a cron job on the server to send "
+"my emails\" but we have not detected any hits to your cron job URL in the "
+"last 24 hours. The program cannot function properly If your cron job does "
+"not run at least once per day. Please check the <a href=\"%s\">Help page</a> "
+"for more information and contact us if you need assistance with setting up "
+"your cron job."
+msgstr ""
+
+#: views/options.php:11
+msgid "General Settings"
+msgstr ""
+
+#: views/options.php:13
+msgid "Default sender:"
+msgstr ""
+
+#: views/options.php:14
+msgid ""
+"This will be used to pre-populate your sender email address in newsletters "
+"and autoresponder campaigns.<br> You can always change it individually in "
+"each form. Please note that this field should contain valid email address or "
+"name and email in the format <b>Name &ltemail@domain.com&gt;</b>"
+msgstr ""
+
+#: views/options.php:17
+msgid "Email signature:"
+msgstr ""
+
+#: views/options.php:18
+msgid ""
+"This field is optional. If you enter some text here, it will be added at the "
+"end of all your outgoing emails, right before the unsubscribe link"
+msgstr ""
+
+#: views/options.php:23
+msgid "Settings For The Email Sending Process"
+msgstr ""
+
+#: views/options.php:25
+msgid "I will set up a"
+msgstr ""
+
+#: views/options.php:25
+msgid "cron job"
+msgstr ""
+
+#: views/options.php:25
+msgid "on the server to send my emails."
+msgstr ""
+
+#: views/options.php:25
+msgid "(Recommended choice)"
+msgstr ""
+
+#: views/options.php:27
+msgid ""
+"Cron jobs are scheduled tasks that run on your server. This is the preferred "
+"setting but you will need to set up a cron job through your web host control "
+"panel. For full details check <a href='admin.php?page=bftpro_help#cron'>Cron "
+"Jobs section</a> in the Help page."
+msgstr ""
+
+#: views/options.php:29
+msgid "I will rely on my blog visitors"
+msgstr ""
+
+#: views/options.php:29
+msgid "to initiate the email sending by visiting my blog"
+msgstr ""
+
+#: views/options.php:31
+msgid ""
+"If for any reason you can't create real cron jobs, use this setting. For "
+"full details check <a href='admin.php?page=bftpro_help#cron'>Cron Jobs "
+"section</a> in the Help page."
+msgstr ""
+
+#: views/options.php:34
+msgid "In this case I want the sending to happen not more often than once each"
+msgstr ""
+
+#: views/options.php:34
+msgid "minutes."
+msgstr ""
+
+#: views/options.php:35
+msgid ""
+"The purpose of this setting is to avoid overloading the server if you have "
+"too many visitors. There is no guarantee however that mailing will happen "
+"each X minutes, because someone has to visit your blog for mailing to start "
+"each time."
+msgstr ""
+
+#: views/options.php:38 views/options.php:41
+msgid "Send up to:"
+msgstr ""
+
+#: views/options.php:38
+msgid "emails at once"
+msgstr ""
+
+#: views/options.php:39
+msgid ""
+"This setting will be used to define how many emails can be sent at once. "
+"This is useful to avoid site crashes, as many hosts will limit your PHP "
+"execution time to 30 seconds. Usually you should aim for about 100, up to "
+"few hundreds, emails at once on shared hosts."
+msgstr ""
+
+#: views/options.php:41
+msgid "emails per day"
+msgstr ""
+
+#: views/options.php:42
+msgid ""
+"Many hosting companies limit the number of emails you can send per day. If "
+"your company imposes such limit, enter it here and the plugin will make sure "
+"no more than this number of emails is sent by it. Note that it cannot take "
+"into account any emails that do not originate from this autoresponder plugin."
+msgstr ""
+
+#: views/options.php:43
+msgid ""
+"Have in mind also that I will always try to send the immediate emails like "
+"welcome messages and double opt-in emails regardless the limits given above."
+msgstr ""
+
+#: views/options.php:45
+msgid ""
+"Problems sending emails? Please check the <a href=\"%s\" target=\"_blank"
+"\">error log</a> and <a href=\"%s\" target=\"_blank\">this page</a>."
+msgstr ""
+
+#: views/options.php:51
+msgid "Roles"
+msgstr ""
+
+#: views/options.php:53
+msgid "Roles that can manage the autoresponder"
+msgstr ""
+
+#: views/options.php:55
+msgid ""
+"By default only Administrator and Super admin can manage the autoresponder. "
+"You can enable other roles here."
+msgstr ""
+
+#: views/options.php:61
+msgid "Only administrator or superadmin can change this!"
+msgstr ""
+
+#: views/options.php:67
+msgid "Recaptcha Settings"
+msgstr ""
+
+#: views/options.php:69
+msgid ""
+"You can optionally enable <a href='http://www.google.com/recaptcha' "
+"target='_blank'>ReCaptcha</a> to prevent spam bots to register to your "
+"mailing lists. You will need a ReCaptcha API key. You can <a href='http://"
+"www.google.com/recaptcha/whyrecaptcha' target='_blank'>get one here</a>. "
+"It's free."
+msgstr ""
+
+#: views/options.php:71
+msgid "Public key:"
+msgstr ""
+
+#: views/options.php:73
+msgid "Private key:"
+msgstr ""
+
+#: views/options.php:75
+msgid ""
+"Once you enter both your public and private ReCaptcha keys, a new checkbox "
+"will become visible for each mailing list to let you enable recaptcha when "
+"users register to it."
+msgstr ""
+
+#: views/options.php:80
+msgid "Question based captcha"
+msgstr ""
+
+#: views/options.php:82
+msgid ""
+"In addition to ReCaptcha or instead of it, you can use a simple text-based "
+"captcha. We have loaded 3 basic questions but you can edit them and load "
+"your own. Make sure to enter only one question per line and use = to "
+"separate question from answer."
+msgstr ""
+
+#: views/options.php:85
+msgid ""
+"This question-based captcha can be enabled individually by selecting a "
+"checkbox in the mailing list settings form. If you do not check the "
+"checkbox, the captcha question will not be generated."
+msgstr ""
+
+#: views/options.php:90
+msgid "Global Double Opt-In Email"
+msgstr ""
+
+#: views/options.php:92
+msgid "Email subject:"
+msgstr ""
+
+#: views/options.php:93
+msgid "Email message:"
+msgstr ""
+
+#: views/options.php:95
+msgid ""
+"This email will be sent to the subscribers to those email lists that have "
+"\"Double opt-in\" requirement. You can override the subject and message for "
+"any list. <br> Feel free to use the masks {{list-name}}, {{url}}, {{name}}, "
+"and {{firstname}} inside the email subject and/or contents."
+msgstr ""
+
+#: views/options.php:100 views/options.php:102
+msgid "Save All Options"
+msgstr ""
+
+#: views/options.php:111
+msgid "Copy Data from BFT Lite"
+msgstr ""
+
+#: views/options.php:113
+msgid ""
+"By clicking the button below you can copy all your data from BFT Lite "
+"plugin. A new mailing list and new autoresponder will be created, and your "
+"current sequence will be kept as is and can continue from where you left it."
+msgstr ""
+
+#: views/options.php:115
+msgid "Copy Data"
+msgstr ""
+
+#: views/options.php:117
+msgid ""
+"Important! Once you are satisfied with the copied data make sure that BFT "
+"Lite is deactivated. Otherwise you may have emails sent twice."
+msgstr ""
+
+#: views/options.php:125
+msgid "Uninstall Options"
+msgstr ""
+
+#: views/options.php:127
+msgid ""
+"Delete all data and attachments when uninstalling the plugin. Think twice - "
+"if you check this you will lose ALL YOUR DATA when deleting the plugin. Do "
+"not check this if you are just upgrading to a newer version."
+msgstr ""
+
+#: views/options.php:129
+msgid "Save Uninstall Options"
+msgstr ""
+
+#: views/signup-form-visual.php:4 views/signup-form.php:51
+msgid "Your Name:"
+msgstr ""
+
+#: views/signup-form-visual.php:9 views/signup-form.php:52
+msgid "Your Email:"
+msgstr ""
+
+#: views/signup-form.php:55
+msgid "Mailing list:"
+msgstr ""
+
+#: views/subscribe-email-options.html.php:4
+msgid ""
+"This page lets you configure automated subscription to your mailing lists by "
+"sending email to a designated email address. It needs POP3 account login "
+"details to check the designaded email address for new signups."
+msgstr ""
+
+#: views/subscribe-email-options.html.php:9
+msgid "Email address to receive signups:"
+msgstr ""
+
+#: views/subscribe-email-options.html.php:12
+msgid ""
+"If you want to use this, the email address to receive signups should be used "
+"<b>only for automated signups and nothing else.</b>"
+msgstr ""
+
+#: views/subscribe-email-options.html.php:13
+msgid ""
+"Once in a while make sure to delete old emails from this email box. Handling "
+"thousands of emails may slow down your site. We will anyway discard messages "
+"older than one week."
+msgstr ""
+
+#: views/subscribe-email-options.html.php:15
+msgid ""
+"This section lets you configure the plugin to automatically delete users who "
+"bounce. In order to achieve this you need to let the plugin login to check "
+"the signup email using the POP3 account details. This will happen once per "
+"day."
+msgstr ""
+
+#: views/subscribe-email-options.html.php:17
+msgid "POP 3 Login Details"
+msgstr ""
+
+#: views/subscribe-email-options.html.php:28
+msgid "Configure Mailing Lists"
+msgstr ""
+
+#: views/subscribe-email-options.html.php:30
+msgid ""
+"When someone sends email to the selected email address they will be "
+"subscribed to the selected mailing lists. You can fine-tune this by entering "
+"a phrase that should be contained in the email subject. This way you will "
+"not only prevent spam subscriptions but can also use subscribe different "
+"emails for different mailing lists."
+msgstr ""
+
+#: views/subscribe-email-options.html.php:36
+msgid "Subject contains:"
+msgstr ""
+
+#: views/subscribe-email-options.html.php:37
+msgid ""
+"Ignore the mailing list double opt-in settings and activate the sender "
+"immediately."
+msgstr ""
+
+#: views/templates/bftpro-error.php:11
+msgid "An Error Occured"
+msgstr ""
+
+#: views/templates/bftpro-unsubscribe.php:12
+msgid "Unsubscribe from mailing lists"
+msgstr ""
+
+#: views/templates/bftpro-unsubscribe.php:15
+msgid "Please confirm that you wish to unsubscribe by submitting the form."
+msgstr ""
+
+#: views/templates/bftpro-unsubscribe.php:19
+msgid "You will be unsubscribed from the following lists"
+msgstr ""
+
+#: views/templates/bftpro-unsubscribe.php:27
+msgid "Unsubscribe me"
+msgstr ""
+
+#: views/user-log.html.php:1
+msgid "Email log for %s"
+msgstr ""
+
+#: views/user-log.html.php:1
+msgctxt "Subscriber name and email address"
+msgid "%s (%s)"
+msgstr ""
+
+#: views/user-log.html.php:6
+msgid "No emails has been to this subscriber"
+msgstr ""
+
+#: views/user-log.html.php:12
+msgid "Email type"
+msgstr ""
+
+#: views/user-log.html.php:18
+msgid "Autoresponder"
+msgstr ""
+
+#: views/user-log.html.php:19
+msgid "Not sent (mailing error)"
+msgstr ""

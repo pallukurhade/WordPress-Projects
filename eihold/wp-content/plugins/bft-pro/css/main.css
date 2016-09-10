@@ -1,0 +1,68 @@
+.bftpro label
+{
+	font-weight:bold;
+	min-width: 150px;
+	display:block;
+	float:left;
+}
+
+.bftpro div.help
+{
+	margin-left:5px;
+	font-style:italic;
+	margin-bottom:15px;
+	color:#555;
+}
+
+.bftpro-alert
+{
+	padding:20px;
+	font-weight: bold;
+	background:#EEE;
+}
+
+.bftpro-error
+{
+	padding:20px;
+	font-weight: bold;
+	background:#EEE;
+	color:red;
+}
+
+.bftpro fieldset {
+	border: 1px solid #AAA;	
+	padding: 3px;
+	margin-top: 10px;
+}
+
+.bftpro fieldset legend {
+	background: #DDD;
+	padding: 6px;
+	font-weight: bold;	
+}
+
+.bftpro-warning {
+	border: 1pt solid red;
+	font-weight:bold;
+	padding:10px;
+}
+
+.bftpro-front-form label {
+	display:block;
+}
+
+.bftpro-padded {
+	padding:10px;
+}
+
+.bftpro-front-signup-button {
+	padding-top: 20px;
+}
+
+.bftpro-warning {
+	padding:10px;
+	background-color: orange;
+	color:black;
+	font-weight: bold;
+	margin: 10px;
+}

@@ -1,0 +1,37 @@
+body {font-family: serif; font-size: 13pt;}
+
+h1#logo a, p#description {text-indent: 0;}
+
+#slide-panel, .loginslide, #logo2, .scrollable, #social, .wpcf7, #topcontrol, .post-edit-link, #listinglocation h3, .top, #belowfooter, #videos, #listingcontact, #browseby, #secondaryheadermenucontainer, #login-panel, #menubar, #search, #carousel, #loancalculator , #related , .detailpagethumbnails, #videos, .agentbox .btn, .agentbox p a, #leftsidebar .widget, .nav-tabs, #thumbsscript, #socialheader, .flex-direction-nav, #slider2 {
+	display: none;
+}
+
+#printimage {display: block !important;}
+
+#slider2 ul li {list-style: none;}
+
+
+
+#sliderimage img {width: 400px; margin-left: 400px; margin-top: 50px;}
+#details {overflow: auto;}
+
+#features {
+	position: static;
+}
+
+div.bigheading {padding-top: 0;}
+#header {height: 50px !important;}
+
+h1#logo {width: 700px; height: 50px;}
+
+.detailpagesubheading {clear: both; padding-top: 20px; border-top: 2px solid black; margin-top: 40px; font-size: 25pt;}
+
+h2#title {margiin-bottom: 10px;}
+
+a:link {text-decoration: none;}
+
+.agentbox {float: left; margin-right: 30px; overflow: auto;}
+
+.page-break { display:block; page-break-before:always; }
+
+#contactagent {padding-top: 20px; border-top: 2px solid black;}

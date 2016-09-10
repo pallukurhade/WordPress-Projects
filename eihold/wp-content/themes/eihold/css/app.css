@@ -1,0 +1,104 @@
+/* =============================================================================
+   Base
+   ========================================================================== */
+
+body { background: url(../img/bg.png);}
+
+
+
+/* =============================================================================
+   Header
+   ========================================================================== */
+
+#banner { }
+
+/* Fixed Topbar Navigation */
+body.admin-bar .navbar-fixed-top { top: 28px; }
+#menu-primary-navigation li a{font-weight: bolder;text-transform: uppercase;font-size: 12px;color: #fff;font-family: OpenSans-Bold, arial, Tahoma;color:white;}
+.topnavi{display:block;background: #cb1213;z-index: 999;}
+.navbar-inner{background: #373737;z-index: 999;height: 30px;}
+.container, .navbar-fixed-top .container, .navbar-fixed-bottom .container{width:990px;margin-right: auto;margin-left: auto;padding-left: 0px;padding-right: 0px;}
+.logo-menu{width:990px;margin-left:auto;margin-right:auto;padding-left: 0px;padding-right: 0px;height:72px;}
+.navbar .brand{padding:0px 0px 0px;margin-left:0px;}
+.navbar .brand > img{max-width: 81%;height:102px;}
+.navbar-inner{min-height:30px;border-radius:0px;padding-left:0px;padding-right:0px;}
+.nivo-caption{display:none!important;}
+.theme-default .nivo-controlNav{position:relative;top:-90px;z-index:8;}
+.topnavi form{padding-top:8px;position:relative;left:-15px;top:10px;}
+#shome{width: 225px;padding: 6px 10px 6px 10px;border-radius: 4px;border: solid 1px #898989;font-size: 12px;margin-top:-3px;}
+#searchsubmithome {margin-left:-3px;position: absolute;top: 1px;background: #fdd922;border: none;padding: 3px 16px;font-size: 12px;font-weight: bold;color:black;border-radius: 0px 4px 4px 0px;height: 30px;}
+#searchsubmithome:hover {background: #555555;color: white;}
+.navbar .nav>li>a{line-height: 10px;}
+.navbar .nav>li{border-left:solid 1px #898989;}
+.navbar .nav>li:first-child{border-left:none;}
+#sidebar{width:28%;}
+section{float: left;height:205px;}
+footer >.widget-first{width: 310px;margin-right: 20px;margin-top: 15px;}
+footer>.widget-last{width:66%;}
+#menu-footer-menu > li{width:30%;float:left;}
+/* =============================================================================
+   Content
+   ========================================================================== */
+
+#content { }
+
+
+
+/* =============================================================================
+   Primary Content
+   ========================================================================== */
+
+#main { width: 65%;}
+
+
+
+/* =============================================================================
+   Sidebar
+   ========================================================================== */
+
+#sidebar { }
+
+
+
+/* =============================================================================
+   Posts
+   ========================================================================== */
+
+.hentry header { }
+.hentry time { }
+.hentry p.byline { }
+.hentry .entry-content { }
+.hentry footer { }
+
+
+
+/* =============================================================================
+   Footer
+   ========================================================================== */
+
+#content-info{ background: #363839;margin: 0px 0px 0 0px;padding: 18px;margin:auto;color:white;}
+
+
+
+/* =============================================================================
+   WordPress Generated Classes
+   See: http://codex.wordpress.org/CSS#WordPress_Generated_Classes
+   ========================================================================== */
+
+.aligncenter { display: block; margin: 0 auto; }
+.alignleft { float: left; }
+.alignright { float: right; }
+figure.alignnone { margin-left: 0; margin-right: 0; }
+
+
+
+/* =============================================================================
+   Media Queries
+   ========================================================================== */
+
+@media (max-width: 979px) {
+  /* Fix top padding when using the responsive grid with the fixed topbar */
+  body.top-navbar {
+    padding-top: 0;
+  }
+}

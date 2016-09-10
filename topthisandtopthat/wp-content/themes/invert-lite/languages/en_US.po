@@ -1,0 +1,1091 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Invert Lite v1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-01-09 05:58:05+0000\n"
+"Last-Translator: admin <gunjan@techinfini.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:28
+#@ invert
+msgid "We bet this is not what you expected to see here!"
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:16
+#@ invert
+msgid "Home"
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:93
+#@ invert
+msgid "Author"
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:97
+#@ invert
+msgid "Tag"
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:101
+#@ invert
+msgid "Search"
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:38
+#@ invert
+msgid "Author: "
+msgstr ""
+
+#: functions.php:117
+#@ invert
+msgid "Untitled"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:176
+#@ invert
+msgid " Options"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:264
+#@ optionsframework
+msgid "Save Options"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:265
+#@ optionsframework
+msgid "Restore Defaults"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:265
+#@ invert
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:298
+#@ invert
+msgid "Default options restored."
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:341
+#@ invert
+msgid "Options saved."
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:392
+#@ invert
+msgid "Theme Options"
+msgstr ""
+
+#: SketchBoard/includes/options-medialibrary-uploader.php:26
+#@ invert
+msgid "Theme Options Media"
+msgstr ""
+
+#: SketchBoard/includes/options-medialibrary-uploader.php:129
+#@ invert
+msgid "Upload"
+msgstr ""
+
+#: SketchBoard/includes/options-medialibrary-uploader.php:152
+#@ invert
+msgid "View File"
+msgstr ""
+
+#: SketchBoard/includes/options-medialibrary-uploader.php:289
+#@ invert
+msgid "Gallery"
+msgstr ""
+
+#: SketchBoard/includes/options-medialibrary-uploader.php:289
+#@ invert
+msgid "Previously Uploaded"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:232
+#@ invert
+msgid "No Repeat"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:233
+#@ invert
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:234
+#@ invert
+msgid "Repeat Vertically"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:235
+#@ invert
+msgid "Repeat All"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:248
+#@ invert
+msgid "Top Left"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:249
+#@ invert
+msgid "Top Center"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:250
+#@ invert
+msgid "Top Right"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:251
+#@ invert
+msgid "Middle Left"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:252
+#@ invert
+msgid "Middle Center"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:253
+#@ invert
+msgid "Middle Right"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:254
+#@ invert
+msgid "Bottom Left"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:255
+#@ invert
+msgid "Bottom Center"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:256
+#@ invert
+msgid "Bottom Right"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:269
+#@ invert
+msgid "Scroll Normally"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:270
+#@ invert
+msgid "Fixed in Place"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:344
+#@ invert
+msgid "Normal"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:345
+#@ invert
+msgid "Italic"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:346
+#@ invert
+msgid "Bold"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:347
+#@ invert
+msgid "Bold Italic"
+msgstr ""
+
+#: archive.php:27
+#, php-format
+#@ invert
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:29
+#, php-format
+#@ invert
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+#@ invert
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:33
+#@ invert
+msgid "Blog Archives"
+msgstr ""
+
+#: content.php:26
+#: single.php:61
+#@ invert
+msgid "No Comments "
+msgstr ""
+
+#: content.php:26
+#: single.php:61
+#@ invert
+msgid "1 Comment "
+msgstr ""
+
+#: content.php:26
+#: single.php:61
+#@ invert
+msgid "% Comments "
+msgstr ""
+
+#: archive.php:55
+#: author.php:37
+#: category.php:38
+#: index.php:38
+#: search.php:35
+#: tag.php:41
+#@ invert
+msgid "&larr;Previous"
+msgstr ""
+
+#: archive.php:56
+#: author.php:38
+#: category.php:41
+#: index.php:39
+#: search.php:36
+#: tag.php:42
+#@ invert
+msgid "Next&rarr;"
+msgstr ""
+
+#: single.php:90
+#: template-fullwidth.php:38
+#@ invert
+msgid "Not Found"
+msgstr ""
+
+#: category.php:17
+#, php-format
+#@ invert
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:17
+#@ invert
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:25
+#@ invert
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:25
+#@ invert
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:25
+#@ invert
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:25
+#@ invert
+msgid " so far:"
+msgstr ""
+
+#: comments.php:40
+#@ invert
+msgid "Comments are closed."
+msgstr ""
+
+#: content.php:32
+#: page.php:40
+#: single.php:67
+#: template-fullwidth.php:30
+#: template-left-sidebar.php:41
+#@ invert
+msgid "<p><strong>Pages:</strong> "
+msgstr ""
+
+#: content.php:32
+#: page.php:40
+#: single.php:67
+#: template-fullwidth.php:30
+#: template-left-sidebar.php:41
+#@ invert
+msgid "number"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:23
+#@ invert
+msgid "Sketch Themes"
+msgstr ""
+
+#: functions.php:90
+#@ invert
+msgid "Main Navigation"
+msgstr ""
+
+#: content.php:33
+#@ invert
+msgid "Read More &rarr;"
+msgstr ""
+
+#: options.php:48
+#@ invert
+msgid "Yes"
+msgstr ""
+
+#: options.php:49
+#@ invert
+msgid "No"
+msgstr ""
+
+#: options.php:54
+#: options.php:60
+#: options.php:66
+#: options.php:72
+#: options.php:78
+#: options.php:84
+#@ invert
+msgid "Show"
+msgstr ""
+
+#: options.php:55
+#: options.php:61
+#: options.php:67
+#: options.php:73
+#: options.php:79
+#: options.php:85
+#@ invert
+msgid "Hide"
+msgstr ""
+
+#: options.php:126
+#@ invert
+msgid "General Settings"
+msgstr ""
+
+#: options.php:131
+#@ invert
+msgid "This creates a Custom logo that previews the image."
+msgstr ""
+
+#: options.php:137
+#@ invert
+msgid "Logo ALT Text"
+msgstr ""
+
+#: options.php:138
+#@ invert
+msgid "Logo ALT Text field."
+msgstr ""
+
+#: options.php:144
+#@ invert
+msgid "Change favicon"
+msgstr ""
+
+#: options.php:145
+#@ invert
+msgid "This creates a Custom favicon that previews the image."
+msgstr ""
+
+#: options.php:172
+#@ invert
+msgid "Show Custom Pagination"
+msgstr ""
+
+#: options.php:173
+#@ invert
+msgid "Show custom pagination on blog page."
+msgstr ""
+
+#: options.php:206
+#@ invert
+msgid "Custom Background"
+msgstr ""
+
+#: options.php:207
+#@ invert
+msgid "Change the background CSS."
+msgstr ""
+
+#: options.php:227
+#@ invert
+msgid "Footer"
+msgstr ""
+
+#: options.php:231
+#@ invert
+msgid "Copyright Text"
+msgstr ""
+
+#: options.php:232
+#@ invert
+msgid "You can use HTML for links etc.."
+msgstr ""
+
+#: options.php:239
+#@ invert
+msgid "Front Page Options"
+msgstr ""
+
+#: options.php:250
+#@ invert
+msgid "Hide Featured Box1"
+msgstr ""
+
+#: options.php:251
+#: options.php:349
+#: options.php:385
+#: options.php:415
+#@ invert
+msgid "Radio select with default options \"hide\"."
+msgstr ""
+
+#: options.php:259
+#@ invert
+msgid "Featured Box 1 Heading:"
+msgstr ""
+
+#: options.php:260
+#@ invert
+msgid "Enter Featured Box 1 Heading."
+msgstr ""
+
+#: options.php:198
+#: options.php:244
+#: options.php:267
+#: options.php:297
+#: options.php:326
+#: options.php:437
+#: options.php:458
+#: options.php:479
+#: options.php:500
+#: options.php:521
+#@ invert
+msgid "This creates a full size uploader that previews the image."
+msgstr ""
+
+#: options.php:273
+#@ invert
+msgid "Featured Box 1 Content:"
+msgstr ""
+
+#: options.php:274
+#@ invert
+msgid "Enter Featured Box 1 Content."
+msgstr ""
+
+#: options.php:280
+#@ invert
+msgid "Featured Box 1 Link:"
+msgstr ""
+
+#: options.php:281
+#@ invert
+msgid "Enter Box 1 Link."
+msgstr ""
+
+#: options.php:289
+#@ invert
+msgid "Featured Box 2 Heading:"
+msgstr ""
+
+#: options.php:290
+#@ invert
+msgid "Enter Featured Box 2 Heading."
+msgstr ""
+
+#: options.php:303
+#@ invert
+msgid "Featured Box 2 Content:"
+msgstr ""
+
+#: options.php:304
+#@ invert
+msgid "Enter Featured Box 2 Content."
+msgstr ""
+
+#: options.php:310
+#@ invert
+msgid "Featured Box 2 Link:"
+msgstr ""
+
+#: options.php:311
+#@ invert
+msgid "Enter Box 2 Link."
+msgstr ""
+
+#: options.php:318
+#@ invert
+msgid "Featured Box 3 Heading:"
+msgstr ""
+
+#: options.php:319
+#@ invert
+msgid "Enter Featured Box 3 Heading."
+msgstr ""
+
+#: options.php:332
+#@ invert
+msgid "Featured Box 3 Content:"
+msgstr ""
+
+#: options.php:333
+#@ invert
+msgid "Enter Featured Box 3 Content."
+msgstr ""
+
+#: options.php:339
+#@ invert
+msgid "Featured Box 3 Link:"
+msgstr ""
+
+#: options.php:340
+#@ invert
+msgid "Enter Box 3 Link."
+msgstr ""
+
+#: page.php:53
+#: template-left-sidebar.php:50
+#@ invert
+msgid "Page Does Not Exist"
+msgstr ""
+
+#: search.php:15
+#, php-format
+#@ invert
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:73
+#, php-format
+#@ invert
+msgid "&larr; %link"
+msgstr ""
+
+#: single.php:76
+#, php-format
+#@ invert
+msgid "%link &rarr;"
+msgstr ""
+
+#: tag.php:21
+#, php-format
+#@ invert
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: 404.php:15
+#@ invert
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:102
+#@ invert
+msgid "Error 404"
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:122
+#@ invert
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:123
+#@ invert
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:232
+#@ invert
+msgid "To Activate All Features,Please Upgrade Theme.Click Here To Upgrade."
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:235
+#@ invert
+msgid "Click Here To Read Theme Setup Instructions"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:242
+#@ invert
+msgid "Theme Options "
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:66
+#@ invert
+msgid "Buy Timeliner Pro"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:67
+#: SketchBoard/includes/sketchtheme-upsell.php:92
+#: SketchBoard/includes/sketchtheme-upsell.php:116
+#: SketchBoard/includes/sketchtheme-upsell.php:140
+#: SketchBoard/includes/sketchtheme-upsell.php:164
+#: SketchBoard/includes/sketchtheme-upsell.php:188
+#: SketchBoard/includes/sketchtheme-upsell.php:212
+#: SketchBoard/includes/sketchtheme-upsell.php:236
+#: SketchBoard/includes/sketchtheme-upsell.php:260
+#: SketchBoard/includes/sketchtheme-upsell.php:283
+#@ invert
+msgid "View Demo"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:91
+#@ invert
+msgid "Buy Biznez Pro"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:93
+#@ invert
+msgid "Try Biznez Free"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:115
+#@ invert
+msgid "Buy Analytical Pro"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:117
+#@ invert
+msgid "Try Analytical Free"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:139
+#@ invert
+msgid "Buy BizStudio Pro"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:141
+#@ invert
+msgid "Try BizStudio Lite"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:163
+#@ invert
+msgid "Buy FullScreen Pro"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:165
+#@ invert
+msgid "Try FullScreen Lite"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:187
+#@ invert
+msgid "Buy Irex Pro"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:189
+#@ invert
+msgid "Try Irex Lite"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:211
+#@ invert
+msgid "Buy Swiftbiz Pro"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:213
+#@ invert
+msgid "Try Swiftbiz Lite"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:235
+#@ invert
+msgid "Buy Sketchmini Pro"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:237
+#@ invert
+msgid "Try Sketchmini Lite"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:259
+#@ invert
+msgid "Buy StoneAge Pro"
+msgstr ""
+
+#: SketchBoard/includes/sketchtheme-upsell.php:282
+#@ invert
+msgid "Buy 3rd-wired Pro"
+msgstr ""
+
+#: archive.php:29
+#@ invert
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:31
+#@ invert
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: author.php:17
+#@ invert
+msgid "Author Archives: "
+msgstr ""
+
+#: content-none.php:12
+#@ invert
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:17
+#, php-format
+#@ invert
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:19
+#@ invert
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr ""
+
+#: content-none.php:22
+#@ invert
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: content.php:22
+#: single.php:57
+#@ invert
+msgid "On"
+msgstr ""
+
+#: content.php:22
+#: content.php:23
+#: content.php:24
+#: single.php:57
+#: single.php:58
+#: single.php:59
+#@ invert
+msgid ","
+msgstr ""
+
+#: content.php:23
+#: single.php:58
+#@ invert
+msgid "Posted by "
+msgstr ""
+
+#: content.php:24
+#: single.php:59
+#@ invert
+msgid "In "
+msgstr ""
+
+#: content.php:26
+#: single.php:61
+#@ invert
+msgid "With "
+msgstr ""
+
+#: options.php:42
+#@ invert
+msgid "Image"
+msgstr ""
+
+#: options.php:43
+#@ invert
+msgid "Color"
+msgstr ""
+
+#: options.php:130
+#@ invert
+msgid "Change logo (full path to logo image size: 120px width and 40px height)"
+msgstr ""
+
+#: options.php:151
+#@ invert
+msgid "Choose header background color"
+msgstr ""
+
+#: options.php:158
+#@ invert
+msgid "Choose Navigation Font Color"
+msgstr ""
+
+#: options.php:165
+#@ invert
+msgid "Choose Theme Color"
+msgstr ""
+
+#: options.php:181
+#@ invert
+msgid "Breadcrumb Background Type"
+msgstr ""
+
+#: options.php:182
+#@ invert
+msgid "Default ( image )."
+msgstr ""
+
+#: options.php:189
+#@ invert
+msgid "Choose Breadcrumb Background Color"
+msgstr ""
+
+#: options.php:190
+#@ invert
+msgid "No color selected by default."
+msgstr ""
+
+#: options.php:197
+#@ invert
+msgid "Upload Your Breadcrumb Background Image (size: 1600px width and 450px height)"
+msgstr ""
+
+#: options.php:214
+#@ invert
+msgid "Blog page Title"
+msgstr ""
+
+#: options.php:219
+#@ invert
+msgid "Enter Blog page Title:"
+msgstr ""
+
+#: options.php:220
+#@ invert
+msgid "Enter Blog page Title."
+msgstr ""
+
+#: options.php:243
+#@ invert
+msgid "Upload Your Front page Image (size: 1583px width and 716px height)"
+msgstr ""
+
+#: options.php:266
+#@ invert
+msgid "Featured Box 1 Image Path (size: 150px width and 150px height)"
+msgstr ""
+
+#: options.php:296
+#@ invert
+msgid "Featured Box 2 Image Path (size: 150px width and 150px height)"
+msgstr ""
+
+#: options.php:325
+#@ invert
+msgid "Featured Box 3 Image Path (size: 150px width and 150px height)"
+msgstr ""
+
+#: options.php:348
+#@ invert
+msgid "Hide Call to Action Section"
+msgstr ""
+
+#: options.php:356
+#@ invert
+msgid "Call to Action Box Heading:"
+msgstr ""
+
+#: options.php:357
+#@ invert
+msgid "Enter Call to Action Box Heading."
+msgstr ""
+
+#: options.php:363
+#@ invert
+msgid "Call to Action Box Content:"
+msgstr ""
+
+#: options.php:364
+#@ invert
+msgid "Enter Call to Action Box Content."
+msgstr ""
+
+#: options.php:370
+#@ invert
+msgid "Call to Action Button Text:"
+msgstr ""
+
+#: options.php:371
+#@ invert
+msgid "Enter call to action button text."
+msgstr ""
+
+#: options.php:377
+#@ invert
+msgid "Call to Action Button Link:"
+msgstr ""
+
+#: options.php:378
+#@ invert
+msgid "Enter call to action button Link."
+msgstr ""
+
+#: options.php:384
+#@ invert
+msgid "Hide content box with parallax effect"
+msgstr ""
+
+#: options.php:392
+#@ invert
+msgid "Upload Your Image for parallax (size: 1600px width and 800px height)"
+msgstr ""
+
+#: options.php:393
+#@ invert
+msgid "This creates a full size uploder that previews the image."
+msgstr ""
+
+#: options.php:399
+#@ invert
+msgid "Content box with parallax effect left section:"
+msgstr ""
+
+#: options.php:400
+#: options.php:407
+#@ invert
+msgid "Enter Box Content."
+msgstr ""
+
+#: options.php:406
+#@ invert
+msgid "Content box with parallax effect right section:"
+msgstr ""
+
+#: options.php:414
+#@ invert
+msgid "Hide Client Logo Section on Front Page"
+msgstr ""
+
+#: options.php:422
+#@ invert
+msgid "Client Section Title:"
+msgstr ""
+
+#: options.php:423
+#@ invert
+msgid "Enter Client Section Title."
+msgstr ""
+
+#: options.php:429
+#@ invert
+msgid "Image 1 Title:"
+msgstr ""
+
+#: options.php:430
+#: options.php:451
+#: options.php:472
+#: options.php:493
+#: options.php:514
+#@ invert
+msgid "Enter Image 1 Title."
+msgstr ""
+
+#: options.php:436
+#@ invert
+msgid "Image 1 Icon (size: 232px width and 101px height)"
+msgstr ""
+
+#: options.php:443
+#@ invert
+msgid "Image 1 Link:"
+msgstr ""
+
+#: options.php:444
+#@ invert
+msgid "Enter Image 1 Link."
+msgstr ""
+
+#: options.php:450
+#@ invert
+msgid "Image 2 Title:"
+msgstr ""
+
+#: options.php:457
+#@ invert
+msgid "Image 2 Icon (size: 232px width and 101px height)"
+msgstr ""
+
+#: options.php:464
+#@ invert
+msgid "Image 2 Link:"
+msgstr ""
+
+#: options.php:465
+#@ invert
+msgid "Enter Image 2 Link."
+msgstr ""
+
+#: options.php:471
+#@ invert
+msgid "Image 3 Title:"
+msgstr ""
+
+#: options.php:478
+#@ invert
+msgid "Image 3 Icon (size: 232px width and 101px height)"
+msgstr ""
+
+#: options.php:485
+#@ invert
+msgid "Image 3 Link:"
+msgstr ""
+
+#: options.php:486
+#@ invert
+msgid "Enter Image 3 Link."
+msgstr ""
+
+#: options.php:492
+#@ invert
+msgid "Image 4 Title:"
+msgstr ""
+
+#: options.php:499
+#@ invert
+msgid "Image 4 Icon (size: 232px width and 101px height)"
+msgstr ""
+
+#: options.php:506
+#@ invert
+msgid "Image 4 Link:"
+msgstr ""
+
+#: options.php:507
+#@ invert
+msgid "Enter Image 4 Link."
+msgstr ""
+
+#: options.php:513
+#@ invert
+msgid "Image 5 Title:"
+msgstr ""
+
+#: options.php:520
+#@ invert
+msgid "Image 5 Icon (size: 232px width and 101px height)"
+msgstr ""
+
+#: options.php:527
+#@ invert
+msgid "Image 5 Link:"
+msgstr ""
+
+#: options.php:528
+#@ invert
+msgid "Enter Image 5 Link."
+msgstr ""
+

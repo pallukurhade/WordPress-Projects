@@ -1,0 +1,726 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AppThemes iCodes\n"
+"POT-Creation-Date: 2013-12-24 16:59+0100\n"
+"PO-Revision-Date: 2013-12-24 16:59+0100\n"
+"Last-Translator: AppThemes\n"
+"Language-Team: AppThemes\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_nx:1,2;_x:1,2c;_ex:1,2c;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:1,2,3c\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ic-admin.php:13
+msgid "iCodes Settings"
+msgstr ""
+
+#: ic-admin.php:14
+msgid "iCodes"
+msgstr ""
+
+#: ic-admin.php:32
+#, php-format
+msgid "iCodes %d coupons have been imported."
+msgstr ""
+
+#: ic-admin.php:34
+#, php-format
+msgid "iCodes coupons import failed. Error: %s"
+msgstr ""
+
+#: ic-admin.php:44
+msgid "Your iCodes API credits are valid."
+msgstr ""
+
+#: ic-admin.php:46
+#, php-format
+msgid ""
+"Your iCodes API credits are invalid or you have no coupons available yet. "
+"Error: %s"
+msgstr ""
+
+#: ic-admin.php:58
+msgid "General"
+msgstr ""
+
+#: ic-admin.php:59 ic-admin.php:199
+msgid "Categories"
+msgstr ""
+
+#: ic-admin.php:64 ic-admin.php:214
+msgid "Categories Relations"
+msgstr ""
+
+#: ic-admin.php:65 ic-admin.php:219
+msgid "Stores Relations"
+msgstr ""
+
+#: ic-admin.php:69
+msgid "Developer API Access"
+msgstr ""
+
+#: ic-admin.php:72
+msgid "Username"
+msgstr ""
+
+#: ic-admin.php:73 ic-admin.php:81
+#, php-format
+msgid ""
+"Sign up for a <a target=\"_new\" href=\"%s\">iCodes US</a> or <a target="
+"\"_new\" href=\"%s\">iCodes UK</a> account."
+msgstr ""
+
+#: ic-admin.php:77
+msgid ""
+"Enter the \"Username\" of your iCodes account. It is the same as you use to "
+"login on iCodes site."
+msgstr ""
+
+#: ic-admin.php:80
+msgid "Subscription ID"
+msgstr ""
+
+#: ic-admin.php:85
+msgid ""
+"Enter the \"Subscription ID\" that you have received from iCodes. You can "
+"find on the \"Home\" tab after login to your iCodes account."
+msgstr ""
+
+#: ic-admin.php:88
+msgid "Country"
+msgstr ""
+
+#: ic-admin.php:92
+msgid "iCodes US"
+msgstr ""
+
+#: ic-admin.php:93
+msgid "iCodes UK"
+msgstr ""
+
+#: ic-admin.php:95
+msgid ""
+"Choose country of iCodes service. Please note that for each country you need "
+"to register separate account."
+msgstr ""
+
+#: ic-admin.php:101
+msgid "General Settings"
+msgstr ""
+
+#: ic-admin.php:104
+msgid "Coupons to import"
+msgstr ""
+
+#: ic-admin.php:108
+msgid "Specify how many coupons should be imported at one time."
+msgstr ""
+
+#: ic-admin.php:111
+msgid "Coupon Types"
+msgstr ""
+
+#: ic-admin.php:115
+msgid "Codes"
+msgstr ""
+
+#: ic-admin.php:116
+msgid "Offers"
+msgstr ""
+
+#: ic-admin.php:118
+msgid ""
+"Define the types of the coupons that will be imported to your site. You may "
+"choose more than one. Leave unchecked to import from all."
+msgstr ""
+
+#: ic-admin.php:121
+msgid "Import Store Logo"
+msgstr ""
+
+#: ic-admin.php:124 ic-admin.php:131 ic-admin.php:145 ic-admin.php:152
+msgid "Yes"
+msgstr ""
+
+#: ic-admin.php:125
+#, php-format
+msgid ""
+"Imports logo of store from affiliate network, or <a href=\"%s\">vcLogos</a> "
+"service (if you have associated subscription at iCodes site)."
+msgstr ""
+
+#: ic-admin.php:128
+msgid "Immediate Publish"
+msgstr ""
+
+#: ic-admin.php:132
+msgid ""
+"Publish coupons on site without review. If it's unchecked, all imported "
+"coupons will be marked as \"Pending Review\", and will not be available on "
+"site until you review and publish them."
+msgstr ""
+
+#: ic-admin.php:135
+msgid "Network"
+msgstr ""
+
+#: ic-admin.php:139
+msgid ""
+"Define the networks of the coupons that will be imported to your site. You "
+"may choose more than one. Leave unchecked to import from all."
+msgstr ""
+
+#: ic-admin.php:142
+msgid "Create Category"
+msgstr ""
+
+#: ic-admin.php:146
+msgid ""
+"Creates a category if one does not exist yet. If it's unchecked, all "
+"promotional offers that do not have a relation assigned in \"Categories "
+"Relations\" tab, will be omitted."
+msgstr ""
+
+#: ic-admin.php:149
+msgid "Create Store"
+msgstr ""
+
+#: ic-admin.php:153
+msgid ""
+"Creates a store if one does not exist yet. If it's unchecked, all "
+"promotional offers that do not have a relation assigned in \"Stores Relations"
+"\" tab, will be omitted."
+msgstr ""
+
+#: ic-admin.php:156
+msgid "Schedule Posting"
+msgstr ""
+
+#: ic-admin.php:160
+msgid "None"
+msgstr ""
+
+#: ic-admin.php:161
+msgid "Hourly"
+msgstr ""
+
+#: ic-admin.php:162
+msgid "Twice Daily"
+msgstr ""
+
+#: ic-admin.php:163
+msgid "Daily"
+msgstr ""
+
+#: ic-admin.php:165
+msgid ""
+"Specify how often coupons should be imported. Twice daily is recommended."
+msgstr ""
+
+#: ic-admin.php:172
+msgid "One Time Actions"
+msgstr ""
+
+#: ic-admin.php:175
+msgid "Import coupons"
+msgstr ""
+
+#: ic-admin.php:178
+#, php-format
+msgid "Import <a href=\"%s\">Coupons</a> now."
+msgstr ""
+
+#: ic-admin.php:182
+msgid ""
+"Click the link to manually run the function that import coupons. This event "
+"will run only one time."
+msgstr ""
+
+#: ic-admin.php:185
+msgid "Test API access"
+msgstr ""
+
+#: ic-admin.php:188
+#, php-format
+msgid "Test <a href=\"%s\">API access</a> now."
+msgstr ""
+
+#: ic-admin.php:192
+msgid ""
+"Click the link to manually run the function that tests API access. This "
+"event will run only one time."
+msgstr ""
+
+#: ic-admin.php:202
+msgid "Category"
+msgstr ""
+
+#: ic-admin.php:206
+msgid ""
+"Define the categories of the coupons that will be imported to your site. You "
+"may choose more than one. Leave unchecked to import from all."
+msgstr ""
+
+#: ic-admin.php:235
+msgid "Search Advertisers"
+msgstr ""
+
+#: ic-admin.php:359 ic-admin.php:446
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ic-data.php:16 ic-data.php:63
+msgid "Adult And Dating"
+msgstr ""
+
+#: ic-data.php:17
+msgid "Apparel"
+msgstr ""
+
+#: ic-data.php:18
+msgid "Arts and Crafts"
+msgstr ""
+
+#: ic-data.php:19
+msgid "Auctions"
+msgstr ""
+
+#: ic-data.php:20
+msgid "Automotive"
+msgstr ""
+
+#: ic-data.php:21 ic-data.php:64
+msgid "Baby and Toddler"
+msgstr ""
+
+#: ic-data.php:22 ic-data.php:65
+msgid "Books and Magazines"
+msgstr ""
+
+#: ic-data.php:23
+msgid "Cell Phones"
+msgstr ""
+
+#: ic-data.php:24 ic-data.php:68
+msgid "Charities"
+msgstr ""
+
+#: ic-data.php:25
+msgid "Computers and Software"
+msgstr ""
+
+#: ic-data.php:26 ic-data.php:72
+msgid "Daily Deals"
+msgstr ""
+
+#: ic-data.php:27
+msgid "Department Stores"
+msgstr ""
+
+#: ic-data.php:28
+msgid "Education and Careers"
+msgstr ""
+
+#: ic-data.php:29
+msgid "Electronics and Gadgets"
+msgstr ""
+
+#: ic-data.php:30
+msgid "Event Tickets"
+msgstr ""
+
+#: ic-data.php:31
+msgid "Fashion"
+msgstr ""
+
+#: ic-data.php:32
+msgid "Finance"
+msgstr ""
+
+#: ic-data.php:33 ic-data.php:79
+msgid "Food and Drink"
+msgstr ""
+
+#: ic-data.php:34
+msgid "Footwear"
+msgstr ""
+
+#: ic-data.php:35
+msgid "Gambling and Bingo"
+msgstr ""
+
+#: ic-data.php:36
+msgid "Gifts and Flowers"
+msgstr ""
+
+#: ic-data.php:37 ic-data.php:83
+msgid "Health and Beauty"
+msgstr ""
+
+#: ic-data.php:38 ic-data.php:84
+msgid "Hobbies and Collectibles"
+msgstr ""
+
+#: ic-data.php:39
+msgid "Home and Furniture"
+msgstr ""
+
+#: ic-data.php:40
+msgid "Home Entertainment"
+msgstr ""
+
+#: ic-data.php:41
+msgid "Insurance"
+msgstr ""
+
+#: ic-data.php:42 ic-data.php:88
+msgid "Jewelry and Accessories"
+msgstr ""
+
+#: ic-data.php:43
+msgid "Kitchen and Appliances"
+msgstr ""
+
+#: ic-data.php:44 ic-data.php:89
+msgid "Lingerie and Underwear"
+msgstr ""
+
+#: ic-data.php:45
+msgid "Luggage and Bags"
+msgstr ""
+
+#: ic-data.php:46
+msgid "Movies and Music"
+msgstr ""
+
+#: ic-data.php:47
+msgid "Musical Instruments"
+msgstr ""
+
+#: ic-data.php:48
+msgid "Office Supplies"
+msgstr ""
+
+#: ic-data.php:49
+msgid "Online Services"
+msgstr ""
+
+#: ic-data.php:50
+msgid "Party Supplies"
+msgstr ""
+
+#: ic-data.php:51
+msgid "Pet Supplies"
+msgstr ""
+
+#: ic-data.php:52
+msgid "Photography and Photos"
+msgstr ""
+
+#: ic-data.php:53 ic-data.php:98
+msgid "Special Occasions"
+msgstr ""
+
+#: ic-data.php:54
+msgid "Sports and Recreation"
+msgstr ""
+
+#: ic-data.php:55
+msgid "Tools and Hardware"
+msgstr ""
+
+#: ic-data.php:56 ic-data.php:101
+msgid "Toys and Games"
+msgstr ""
+
+#: ic-data.php:57
+msgid "Travel and Vacations"
+msgstr ""
+
+#: ic-data.php:58
+msgid "Video Gaming"
+msgstr ""
+
+#: ic-data.php:59
+msgid "Yard and Garden"
+msgstr ""
+
+#: ic-data.php:66
+msgid "Business"
+msgstr ""
+
+#: ic-data.php:67
+msgid "CDs and DVDs"
+msgstr ""
+
+#: ic-data.php:69
+msgid "Clothing and Footwear"
+msgstr ""
+
+#: ic-data.php:70
+msgid "Competitions"
+msgstr ""
+
+#: ic-data.php:71
+msgid "Computers and Internet"
+msgstr ""
+
+#: ic-data.php:73
+msgid "DIY and Tools"
+msgstr ""
+
+#: ic-data.php:74
+msgid "Education"
+msgstr ""
+
+#: ic-data.php:75
+msgid "Electronics and Appliances"
+msgstr ""
+
+#: ic-data.php:76
+msgid "Experience Days"
+msgstr ""
+
+#: ic-data.php:77
+msgid "Finance and Insurance"
+msgstr ""
+
+#: ic-data.php:78
+msgid "Flowers"
+msgstr ""
+
+#: ic-data.php:80
+msgid "Gambling"
+msgstr ""
+
+#: ic-data.php:81
+msgid "Games and Consoles"
+msgstr ""
+
+#: ic-data.php:82
+msgid "Gifts and Gadgets"
+msgstr ""
+
+#: ic-data.php:85
+msgid "Holidays Abroad"
+msgstr ""
+
+#: ic-data.php:86
+msgid "Home and Garden"
+msgstr ""
+
+#: ic-data.php:87
+msgid "Hotels and Accommodation"
+msgstr ""
+
+#: ic-data.php:90
+msgid "Mobile Phones"
+msgstr ""
+
+#: ic-data.php:91
+msgid "Motoring"
+msgstr ""
+
+#: ic-data.php:92
+msgid "Music"
+msgstr ""
+
+#: ic-data.php:93
+msgid "Pets"
+msgstr ""
+
+#: ic-data.php:94
+msgid "Photo Printing"
+msgstr ""
+
+#: ic-data.php:95
+msgid "Services"
+msgstr ""
+
+#: ic-data.php:96
+msgid "Shopping"
+msgstr ""
+
+#: ic-data.php:97
+msgid "Sound and Vision"
+msgstr ""
+
+#: ic-data.php:99
+msgid "Sports and Leisure"
+msgstr ""
+
+#: ic-data.php:100
+msgid "Tickets"
+msgstr ""
+
+#: ic-data.php:102
+msgid "Travel"
+msgstr ""
+
+#: ic-data.php:103
+msgid "UK Holidays"
+msgstr ""
+
+#: ic-data.php:121 ic-data.php:138
+msgid "AffiliateFuture"
+msgstr ""
+
+#: ic-data.php:122 ic-data.php:139
+msgid "Affiliate Window"
+msgstr ""
+
+#: ic-data.php:123
+msgid "Amazon"
+msgstr ""
+
+#: ic-data.php:124
+msgid "AvantLink"
+msgstr ""
+
+#: ic-data.php:125 ic-data.php:142
+msgid "Buy"
+msgstr ""
+
+#: ic-data.php:126 ic-data.php:143
+msgid "Commission Junction"
+msgstr ""
+
+#: ic-data.php:127 ic-data.php:145
+msgid "eBay"
+msgstr ""
+
+#: ic-data.php:128 ic-data.php:146
+msgid "Google"
+msgstr ""
+
+#: ic-data.php:129
+msgid "LinkConnector"
+msgstr ""
+
+#: ic-data.php:130 ic-data.php:149
+msgid "LinkShare"
+msgstr ""
+
+#: ic-data.php:131
+msgid "LinkShare Canada"
+msgstr ""
+
+#: ic-data.php:132
+msgid "Pepperjam"
+msgstr ""
+
+#: ic-data.php:133
+msgid "ShareASale"
+msgstr ""
+
+#: ic-data.php:134 ic-data.php:161
+msgid "Webgains"
+msgstr ""
+
+#: ic-data.php:140
+msgid "Affilinet"
+msgstr ""
+
+#: ic-data.php:141
+msgid "Aflite"
+msgstr ""
+
+#: ic-data.php:144
+msgid "DGM"
+msgstr ""
+
+#: ic-data.php:147
+msgid "Impact Radius"
+msgstr ""
+
+#: ic-data.php:148
+msgid "Independent"
+msgstr ""
+
+#: ic-data.php:150
+msgid "Mobiles4everyone"
+msgstr ""
+
+#: ic-data.php:151
+msgid "Monetise"
+msgstr ""
+
+#: ic-data.php:152
+msgid "MoreNiche"
+msgstr ""
+
+#: ic-data.php:153
+msgid "Paid On Results"
+msgstr ""
+
+#: ic-data.php:154
+msgid "Profitistic"
+msgstr ""
+
+#: ic-data.php:155
+msgid "Silvertap"
+msgstr ""
+
+#: ic-data.php:156
+msgid "Silvertap 2"
+msgstr ""
+
+#: ic-data.php:157
+msgid "TradeTracker"
+msgstr ""
+
+#: ic-data.php:158
+msgid "Tradedoubler"
+msgstr ""
+
+#: ic-data.php:159
+msgid "Tradedoubler Ireland"
+msgstr ""
+
+#: ic-data.php:160
+msgid "Trienta Affiliates"
+msgstr ""
+
+#: ic-import.php:192
+msgid "Invalid file type"
+msgstr ""
+
+#: ic-import.php:526
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ic-import.php:532
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ic-import.php:539
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ic-import.php:544
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ic-import.php:550
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: icodes.php:61
+msgid "AppThemes iCodes could not run."
+msgstr ""
+
+#: icodes.php:64
+msgid ""
+"AppThemes iCodes does not support the current theme. Please use a compatible "
+"AppThemes Product."
+msgstr ""
